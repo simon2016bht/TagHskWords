@@ -59,34 +59,16 @@
       "to assist"
     ]
   },
-    {
-    "id": 15401,
-    "hanzi": "帮",
-    "pinyin": "bāng",
-    "translations": [
-      "assistance",
-      "aid",
-      "to help",
-      "to assist"
-    ]
-  },
   {
     "id": 155,
     "hanzi": "报纸",
     "pinyin": "bào zhǐ",
     "translations": [
       "newspaper",
+      "newsprint",
       "CL:份",
       "期",
       "張|张[zhāng]"
-    ]
-  },
-  {
-    "id": 15501,
-    "hanzi": "纸",
-    "pinyin": "zhǐ",
-    "translations": [
-      "paper"
     ]
   },
   {
@@ -136,22 +118,6 @@
     "pinyin": "chàng gē",
     "translations": [
       "to sing a song"
-    ]
-  },
-  {
-    "id": 15901,
-    "hanzi": "唱",
-    "pinyin": "chàng",
-    "translations": [
-      "to sing"
-    ]
-  },
-  {
-    "id": 15902,
-    "hanzi": "歌",
-    "pinyin": "gē",
-    "translations": [
-      "song"
     ]
   },
   {
@@ -270,17 +236,9 @@
   {
     "id": 166,
     "hanzi": "打篮球",
-    "pinyin": "dǎ lán qiú",
+    "pinyin": "dá lán qiú",
     "translations": [
       "Play basketball"
-    ]
-  },
-  {
-    "id": 16601,
-    "hanzi": "球",
-    "pinyin": "qiú",
-    "translations": [
-      "ball"
     ]
   },
   {
@@ -297,15 +255,6 @@
     "id": 168,
     "hanzi": "但是",
     "pinyin": "dàn shì",
-    "translations": [
-      "but",
-      "however"
-    ]
-  },
-  {
-    "id": 16801,
-    "hanzi": "但",
-    "pinyin": "dàn",
     "translations": [
       "but",
       "however"
@@ -356,14 +305,6 @@
     ]
   },
   {
-    "id": 17201,
-    "hanzi": "弟",
-    "pinyin": "dì",
-    "translations": [
-      "younger brother"
-    ]
-  },
-  {
     "id": 173,
     "hanzi": "第一",
     "pinyin": "dì yī",
@@ -385,15 +326,6 @@
     "id": 175,
     "hanzi": "房间",
     "pinyin": "fáng jiān",
-    "translations": [
-      "room",
-      "CL:間|间[jiān]"
-    ]
-  },
-  {
-    "id": 17501,
-    "hanzi": "房",
-    "pinyin": "fáng",
     "translations": [
       "room",
       "CL:間|间[jiān]"
@@ -456,14 +388,6 @@
     ]
   },
   {
-    "id": 18001,
-    "hanzi": "哥",
-    "pinyin": "gē",
-    "translations": [
-      "older brother"
-    ]
-  },
-  {
     "id": 181,
     "hanzi": "给",
     "pinyin": "gěi",
@@ -485,36 +409,6 @@
       "bus",
       "CL:輛|辆",
       "班[bān]"
-    ]
-  },
-  {
-    "id": 18201,
-    "hanzi": "公共",
-    "pinyin": "gōng gòng",
-    "translations": [
-      "public"
-    ]
-  },
-  {
-    "id": 18202,
-    "hanzi": "公",
-    "pinyin": "gōng",
-    "translations": [
-      "public",
-      "collectively owned",
-      "fair",
-      "male (animal)"
-    ]
-  },
-  {
-    "id": 18203,
-    "hanzi": "共",
-    "pinyin": "gòng",
-    "translations": [
-      "to share",
-      "together",
-      "total",
-      "altogether"
     ]
   },
   {
@@ -572,14 +466,6 @@
     "id": 187,
     "hanzi": "孩子",
     "pinyin": "hái zi",
-    "translations": [
-      "child"
-    ]
-  },
-  {
-    "id": 18701,
-    "hanzi": "孩",
-    "pinyin": "hái",
     "translations": [
       "child"
     ]
@@ -663,17 +549,6 @@
     ]
   },
   {
-    "id": 19401,
-    "hanzi": "答",
-    "pinyin": "dá",
-    "translations": [
-      "to reply",
-      "to answer",
-      "the answer",
-      "CL:個|个[gè]"
-    ]
-  },
-  {
     "id": 195,
     "hanzi": "机场",
     "pinyin": "jī chǎng",
@@ -693,22 +568,6 @@
       "hen's egg",
       "CL:個|个",
       "打[dá]"
-    ]
-  },
-  {
-    "id": 19601,
-    "hanzi": "蛋",
-    "pinyin": "dàn",
-    "translations": [
-      "egg"
-    ]
-  },
-  {
-    "id": 19601,
-    "hanzi": "鸡",
-    "pinyin": "jī",
-    "translations": [
-      "chicken"
     ]
   },
   {
@@ -739,14 +598,6 @@
     "translations": [
       "older sister",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 19901,
-    "hanzi": "姐",
-    "pinyin": "jiě",
-    "translations": [
-      "older sister"
     ]
   },
   {
@@ -853,15 +704,6 @@
       "to take an exam",
       "exam",
       "CL:次[cì]"
-    ]
-  },
-  {
-    "id": 20701,
-    "hanzi": "考",
-    "pinyin": "kǎo",
-    "translations": [
-      "to take an exam",
-      "exam"
     ]
   },
   {
@@ -1055,14 +897,6 @@
     ]
   },
   {
-    "id": 22201,
-    "hanzi": "妹",
-    "pinyin": "mèi",
-    "translations": [
-      "younger sister"
-    ]
-  },
-  {
     "id": 223,
     "hanzi": "门",
     "pinyin": "mén",
@@ -1103,15 +937,6 @@
     ]
   },
   {
-    "id": 22401,
-    "hanzi": "男",
-    "pinyin": "nán",
-    "translations": [
-      "a man",
-      "a male"
-    ]
-  },
-  {
     "id": 225,
     "hanzi": "您",
     "pinyin": "nín",
@@ -1131,33 +956,9 @@
     ]
   },
   {
-    "id": 22601,
-    "hanzi": "牛",
-    "pinyin": "niú",
-    "translations": [
-      "cattle/cow/bull"
-    ]
-  },
-  {
-    "id": 22602,
-    "hanzi": "奶",
-    "pinyin": "nǎi",
-    "translations": [
-      "milk"
-    ]
-  },
-  {
     "id": 227,
     "hanzi": "女人",
     "pinyin": "nǚ rén",
-    "translations": [
-      "woman"
-    ]
-  },
-  {
-    "id": 22701,
-    "hanzi": "女",
-    "pinyin": "nǚ",
     "translations": [
       "woman"
     ]
