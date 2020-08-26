@@ -123,6 +123,24 @@
     ]
   },
   {
+    "id": 31002,
+    "hanzi": "办",
+    "pinyin": "bàn",
+    "translations": [
+      "to do",
+      "to handle"
+    ]
+  },
+  {
+    "id": 31001,
+    "hanzi": "法",
+    "pinyin": "fǎ",
+    "translations": [
+      "law",
+      "way (of doing sth)"
+    ]
+  },
+  {
     "id": 311,
     "hanzi": "办公室",
     "pinyin": "bàn gōng shì",
@@ -255,6 +273,14 @@
     ]
   },
   {
+    "id": 32101,
+    "hanzi": "变",
+    "pinyin": "biàn",
+    "translations": [
+      "change"
+    ]
+  },
+  {
     "id": 322,
     "hanzi": "表示",
     "pinyin": "biǎo shì",
@@ -338,6 +364,15 @@
     ]
   },
   {
+    "id": 32801,
+    "hanzi": "单",
+    "pinyin": "dān",
+    "translations": [
+      "list",
+      "single"
+    ]
+  },
+  {
     "id": 329,
     "hanzi": "参加",
     "pinyin": "cān jiā",
@@ -345,6 +380,14 @@
       "to participate",
       "to take part",
       "to join"
+    ]
+  },
+  {
+    "id": 32901,
+    "hanzi": "加",
+    "pinyin": "jiā",
+    "translations": [
+      "to add"
     ]
   },
   {
@@ -401,6 +444,16 @@
     ]
   },
   {
+    "id": 333,
+    "hanzi": "超",
+    "pinyin": "chāo",
+    "translations": [
+      "to exceed",
+      "super-",
+      "ultra-"
+    ]
+  },
+  {
     "id": 334,
     "hanzi": "衬衫",
     "pinyin": "chèn shān",
@@ -430,6 +483,14 @@
       "city",
       "town",
       "CL:座[zuò]"
+    ]
+  },
+  {
+    "id": 33601,
+    "hanzi": "城",
+    "pinyin": "chéng",
+    "translations": [
+      "city"
     ]
   },
   {
@@ -493,6 +554,14 @@
       "word (general term including monosyllables through to short phrases)",
       "term (e.g. technical term)",
       "expression"
+    ]
+  },
+  {
+    "id": 34201,
+    "hanzi": "词",
+    "pinyin": "cí",
+    "translations": [
+      "word (general term including monosyllables through to short phrases)"
     ]
   },
   {
@@ -564,6 +633,15 @@
       "uneasy",
       "to worry",
       "to be anxious"
+    ]
+  },
+  {
+    "id": 34701,
+    "hanzi": "心",
+    "pinyin": "xīn",
+    "translations": [
+      "heart",
+      "mind"
     ]
   },
   {
@@ -704,6 +782,15 @@
       "CL:隻|只",
       "群",
       "個|个[gè]"
+    ]
+  },
+  {
+    "id": 36001,
+    "hanzi": "物",
+    "pinyin": "wù",
+    "translations": [
+      "thing",
+      "object"
     ]
   },
   {
@@ -910,6 +997,14 @@
     ]
   },
   {
+    "id": 37801,
+    "hanzi": "感",
+    "pinyin": "gǎn",
+    "translations": [
+      "to feel"
+    ]
+  },
+  {
     "id": 379,
     "hanzi": "刚才",
     "pinyin": "gāng cái",
@@ -1080,6 +1175,23 @@
     ]
   },
   {
+    "id": 39401,
+    "hanzi": "害",
+    "pinyin": "hài",
+    "translations": [
+      "harm"
+    ]
+  },
+  {
+    "id": 39402,
+    "hanzi": "怕",
+    "pinyin": "pà",
+    "translations": [
+      "to be afraid",
+      "to be scared"
+    ]
+  },
+  {
     "id": 395,
     "hanzi": "河",
     "pinyin": "hé",
@@ -1107,6 +1219,14 @@
       "passport",
       "CL:本",
       "個|个[gè]"
+    ]
+  },
+  {
+    "id": 39701,
+    "hanzi": "护",
+    "pinyin": "hù",
+    "translations": [
+      "to protect"
     ]
   },
   {
@@ -1256,6 +1376,14 @@
     ]
   },
   {
+    "id": 41001,
+    "hanzi": "记",
+    "pinyin": "jì",
+    "translations": [
+      "to remember"
+    ]
+  },
+  {
     "id": 411,
     "hanzi": "季节",
     "pinyin": "jì jié",
@@ -1275,6 +1403,15 @@
       "to examine",
       "to inspect",
       "CL:次[cì]"
+    ]
+  },
+  {
+    "id": 41201,
+    "hanzi": "查",
+    "pinyin": "chá",
+    "translations": [
+      "research",
+      "to examine"
     ]
   },
   {
@@ -1487,6 +1624,14 @@
     ]
   },
   {
+    "id": 43001,
+    "hanzi": "理",
+    "pinyin": "lǐ",
+    "translations": [
+      "to manage"
+    ]
+  },
+  {
     "id": 431,
     "hanzi": "久",
     "pinyin": "jiǔ",
@@ -1538,6 +1683,15 @@
     ]
   },
   {
+    "id": 43501,
+    "hanzi": "定",
+    "pinyin": "dìng",
+    "translations": [
+      "to determine",
+      "to decide"
+    ]
+  },
+  {
     "id": 436,
     "hanzi": "渴",
     "pinyin": "kě",
@@ -1579,6 +1733,17 @@
       "customer",
       "client",
       "CL:位[wèi]"
+    ]
+  },
+  {
+    "id": 43901,
+    "hanzi": "客",
+    "pinyin": "kè",
+    "translations": [
+      "visitor",
+      "guest",
+      "customer",
+      "client"
     ]
   },
   {
@@ -1679,6 +1844,15 @@
       "CL:件",
       "個|个",
       "份[fèn]"
+    ]
+  },
+  {
+    "id": 44801,
+    "hanzi": "礼",
+    "pinyin": "lǐ",
+    "translations": [
+      "gift",
+      "etiquette"
     ]
   },
   {
@@ -1908,6 +2082,14 @@
     ]
   },
   {
+    "id": 47001,
+    "hanzi": "级",
+    "pinyin": "jí",
+    "translations": [
+      "grade"
+    ]
+  },
+  {
     "id": 471,
     "hanzi": "年轻",
     "pinyin": "nián qīng",
@@ -1933,6 +2115,14 @@
       "great effort",
       "to strive",
       "to try hard"
+    ]
+  },
+  {
+    "id": 47301,
+    "hanzi": "力",
+    "pinyin": "lì",
+    "translations": [
+      "power"
     ]
   },
   {
@@ -2026,6 +2216,16 @@
       "else",
       "other than (that person)",
       "in addition to the person mentioned above"
+    ]
+  },
+  {
+    "id": 48201,
+    "hanzi": "其",
+    "pinyin": "qí",
+    "translations": [
+      "his her its their",
+      "that",
+      "such"
     ]
   },
   {
@@ -2162,6 +2362,15 @@
       "to be on the internet",
       "to stretch a net (in a sports game or for covering sth)",
       "to be netted (of fish)"
+    ]
+  },
+  {
+    "id": 49501,
+    "hanzi": "网",
+    "pinyin": "wǎng",
+    "translations": [
+      "net",
+      "network"
     ]
   },
   {
@@ -2353,6 +2562,15 @@
     ]
   },
   {
+    "id": 51201,
+    "hanzi": "特",
+    "pinyin": "tè ",
+    "translations": [
+      "especially",
+      "special"
+    ]
+  },
+  {
     "id": 513,
     "hanzi": "疼",
     "pinyin": "téng",
@@ -2430,6 +2648,14 @@
     "pinyin": "tóu fa",
     "translations": [
       "hair (on the head)"
+    ]
+  },
+  {
+    "id": 52001,
+    "hanzi": "发",
+    "pinyin": "fà",
+    "translations": [
+      "hair"
     ]
   },
   {
@@ -2540,6 +2766,16 @@
       "cultural",
       "CL:個|个",
       "種|种[zhǒng]"
+    ]
+  },
+  {
+    "id": 53101,
+    "hanzi": "文",
+    "pinyin": "wén",
+    "translations": [
+      "culture",
+      "language",
+      "writing"
     ]
   },
   {
@@ -2667,6 +2903,15 @@
       "CL:個|个",
       "位",
       "名[míng]"
+    ]
+  },
+  {
+    "id": 54301,
+    "hanzi": "长",
+    "pinyin": "zhǎng",
+    "translations": [
+      "chief",
+      "to grow"
     ]
   },
   {
@@ -3202,6 +3447,14 @@
     ]
   },
   {
+    "id": 59001,
+    "hanzi": "周",
+    "pinyin": "zhōu",
+    "translations": [
+      "week"
+    ]
+  },
+  {
     "id": 591,
     "hanzi": "主要",
     "pinyin": "zhǔ yào",
@@ -3210,6 +3463,17 @@
       "principal",
       "major",
       "primary"
+    ]
+  },
+  {
+    "id": 59101,
+    "hanzi": "主",
+    "pinyin": "zhǔ",
+    "translations": [
+      "main",
+      "owner",
+      "host",
+      "Lord"
     ]
   },
   {
@@ -3257,6 +3521,15 @@
     "pinyin": "zǒng shì",
     "translations": [
       "always"
+    ]
+  },
+  {
+    "id": 59601,
+    "hanzi": "总",
+    "pinyin": "zǒng",
+    "translations": [
+      "always",
+      "total"
     ]
   },
   {

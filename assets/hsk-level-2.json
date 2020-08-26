@@ -422,6 +422,14 @@
     ]
   },
   {
+    "id": 17601,
+    "hanzi": "常",
+    "pinyin": "cháng",
+    "translations": [
+      "ofter"
+    ]
+  },
+  {
     "id": 177,
     "hanzi": "服务员",
     "pinyin": "fú wù yuán",
@@ -453,6 +461,14 @@
       "to tell",
       "to inform",
       "to let know"
+    ]
+  },
+  {
+    "id": 17901,
+    "hanzi": "告",
+    "pinyin": "gào",
+    "translations": [
+      "to tell"
     ]
   },
   {
@@ -1011,6 +1027,17 @@
       "trip",
       "journey",
       "tourism",
+      "travel",
+      "tour"
+    ]
+  },
+  {
+    "id": 21701,
+    "hanzi": "游",
+    "pinyin": "yóu",
+    "translations": [
+      "swim",
+      "journey",
       "travel",
       "tour"
     ]
@@ -1898,6 +1925,16 @@
     ]
   },
   {
+    "id": 27901,
+    "hanzi": "因",
+    "pinyin": "yīn",
+    "translations": [
+      "because",
+      "owing to",
+      "on account of"
+    ]
+  },
+  {
     "id": 280,
     "hanzi": "游泳",
     "pinyin": "yóu yǒng",
@@ -2092,6 +2129,21 @@
     ]
   },
   {
+    "id": 29401,
+    "hanzi": "正",
+    "pinyin": "zhèng",
+    "translations": [
+      "just (right)",
+      "main",
+      "upright",
+      "straight",
+      "correct",
+      "positive",
+      "greater than zero",
+      "principle"
+    ]
+  },
+  {
     "id": 295,
     "hanzi": "知道",
     "pinyin": "zhī dào",
@@ -2099,6 +2151,25 @@
       "to know",
       "to be aware of",
       "also pron. [zhī dao]"
+    ]
+  },
+  {
+    "id": 29501,
+    "hanzi": "道",
+    "pinyin": "dào",
+    "translations": [
+      "road",
+      "truth",
+      "to say"
+    ]
+  },
+  {
+    "id": 29502,
+    "hanzi": "知",
+    "pinyin": "zhī",
+    "translations": [
+      "to know",
+      "to be aware of"
     ]
   },
   {
@@ -2121,6 +2192,15 @@
       "bicycle",
       "bike",
       "CL:輛|辆[liàng]"
+    ]
+  },
+  {
+    "id": 29701,
+    "hanzi": "行",
+    "pinyin": "xíng",
+    "translations": [
+      "to walk",
+      "to go"
     ]
   },
   {
