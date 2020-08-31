@@ -20,15 +20,6 @@
     ]
   },
   {
-    "id": 60101,
-    "hanzi": "排",
-    "pinyin": "pái",
-    "translations": [
-      "to arrange",
-      "a row"
-    ]
-  },
-  {
     "id": 602,
     "hanzi": "安全",
     "pinyin": "ān quán",
@@ -283,15 +274,6 @@
     ]
   },
   {
-    "id": 62301,
-    "hanzi": "饼",
-    "pinyin": "bǐng",
-    "translations": [
-      "flat cake",
-      "pastry"
-    ]
-  },
-  {
     "id": 624,
     "hanzi": "并且",
     "pinyin": "bìng qiě",
@@ -358,31 +340,12 @@
     ]
   },
   {
-    "id": 62901,
-    "hanzi": "管",
-    "pinyin": "guǎn",
-    "translations": [
-      "to take care of",
-      "to control",
-      "to manage"
-    ]
-  },
-  {
     "id": 630,
     "hanzi": "不仅",
     "pinyin": "bù jǐn",
     "translations": [
       "not only (this one)",
       "not just (...) but also"
-    ]
-  },
-  {
-    "id": 63001,
-    "hanzi": "仅",
-    "pinyin": "jǐn",
-    "translations": [
-      "only",
-      "barely"
     ]
   },
   {
@@ -395,16 +358,6 @@
       "section",
       "piece",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 63101,
-    "hanzi": "部",
-    "pinyin": "bù",
-    "translations": [
-      "part",
-      "division",
-      "ministry"
     ]
   },
   {
@@ -441,24 +394,6 @@
     ]
   },
   {
-    "id": 63401,
-    "hanzi": "材",
-    "pinyin": "cái",
-    "translations": [
-      "material",
-      "timber"
-    ]
-  },
-  {
-    "id": 63402,
-    "hanzi": "料",
-    "pinyin": "liào",
-    "translations": [
-      "material",
-      "stuff"
-    ]
-  },
-  {
     "id": 635,
     "hanzi": "参观",
     "pinyin": "cān guān",
@@ -466,16 +401,6 @@
       "to look around",
       "to tour",
       "to visit"
-    ]
-  },
-  {
-    "id": 63501,
-    "hanzi": "观",
-    "pinyin": "guān",
-    "translations": [
-      "to look at",
-      "to watch",
-      "to observe"
     ]
   },
   {
@@ -601,15 +526,6 @@
     ]
   },
   {
-    "id": 64701,
-    "hanzi": "诚",
-    "pinyin": "chéng",
-    "translations": [
-      "sincere",
-      "authentic"
-    ]
-  },
-  {
     "id": 648,
     "hanzi": "吃惊",
     "pinyin": "chī jīng",
@@ -630,29 +546,12 @@
     ]
   },
   {
-    "id": 64901,
-    "hanzi": "重",
-    "pinyin": "chóng",
-    "translations": [
-      "re-"
-    ]
-  },
-  {
     "id": 650,
     "hanzi": "抽烟",
     "pinyin": "chōu yān",
     "translations": [
       "to smoke (a cigarette",
       "tobacco)"
-    ]
-  },
-  {
-    "id": 65001,
-    "hanzi": "烟",
-    "pinyin": "yān",
-    "translations": [
-      "cigarette",
-      "tobacco"
     ]
   },
   {
@@ -697,14 +596,6 @@
       "window",
       "CL:個|个",
       "扇[shàn]"
-    ]
-  },
-  {
-    "id": 65501,
-    "hanzi": "窗",
-    "pinyin": "chuāng",
-    "translations": [
-      "window"
     ]
   },
   {
@@ -819,31 +710,12 @@
     ]
   },
   {
-    "id": 66601,
-    "hanzi": "大使",
-    "pinyin": "dà shǐ",
-    "translations": [
-      "ambassador"
-    ]
-  },
-  {
     "id": 667,
     "hanzi": "大约",
     "pinyin": "dà yuē",
     "translations": [
       "approximately",
       "about"
-    ]
-  },
-  {
-    "id": 66701,
-    "hanzi": "约",
-    "pinyin": "yuē",
-    "translations": [
-      "approximately",
-      "about",
-      "to make an appointment",
-      " to reduce"
     ]
   },
   {
@@ -884,16 +756,6 @@
       "to replace",
       "to substitute (X for Y",
       "or a number in an algebraic expression)"
-    ]
-  },
-  {
-    "id": 67001,
-    "hanzi": "替",
-    "pinyin": "tì",
-    "translations": [
-      "instead",
-      "to replace",
-      "to substitute for "
     ]
   },
   {
@@ -977,14 +839,6 @@
     "pinyin": "dào chù",
     "translations": [
       "everywhere"
-    ]
-  },
-  {
-    "id": 67701,
-    "hanzi": "处",
-    "pinyin": "chù",
-    "translations": [
-      "place"
     ]
   },
   {
@@ -1301,14 +1155,6 @@
     ]
   },
   {
-    "id": 7001,
-    "hanzi": "童",
-    "pinyin": "tóng",
-    "translations": [
-      "child"
-    ]
-  },
-  {
     "id": 701,
     "hanzi": "发",
     "pinyin": "fā",
@@ -1340,14 +1186,6 @@
       "growth",
       "to develop",
       "to grow",
-      "to expand"
-    ]
-  },
-  {
-    "id": 703,
-    "hanzi": "展",
-    "pinyin": "zhǎn",
-    "translations": [
       "to expand"
     ]
   },
@@ -1389,15 +1227,6 @@
     ]
   },
   {
-    "id": 70601,
-    "hanzi": "烦",
-    "pinyin": "fán",
-    "translations": [
-      "to bother",
-      "to trouble"
-    ]
-  },
-  {
     "id": 707,
     "hanzi": "反对",
     "pinyin": "fǎn duì",
@@ -1406,17 +1235,6 @@
       "to oppose",
       "to be opposed to",
       "opposition"
-    ]
-  },
-  {
-    "id": 70701,
-    "hanzi": "反",
-    "pinyin": "fǎn",
-    "translations": [
-      "reverse",
-      "to oppose",
-      "anti-",
-      "opposite"
     ]
   },
   {
@@ -1445,15 +1263,6 @@
       "limit",
       "extent",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 70901,
-    "hanzi": "围",
-    "pinyin": "wéi",
-    "translations": [
-      "to encircle",
-      "to surround"
     ]
   },
   {
@@ -1520,15 +1329,6 @@
     ]
   },
   {
-    "id": 71501,
-    "hanzi": "假",
-    "pinyin": "jià",
-    "translations": [
-      "holidays",
-      "vocation"
-    ]
-  },
-  {
     "id": 716,
     "hanzi": "分之",
     "pinyin": "fēn zhī",
@@ -1561,15 +1361,6 @@
     ]
   },
   {
-    "id": 71801,
-    "hanzi": "景",
-    "pinyin": "jǐng",
-    "translations": [
-      "scenery",
-      "landscape"
-    ]
-  },
-  {
     "id": 719,
     "hanzi": "丰富",
     "pinyin": "fēng fù",
@@ -1592,14 +1383,6 @@
     ]
   },
   {
-    "id": 72001,
-    "hanzi": "否",
-    "pinyin": "fǒu",
-    "translations": [
-      "not"
-    ]
-  },
-  {
     "id": 721,
     "hanzi": "符合",
     "pinyin": "fú hé",
@@ -1614,15 +1397,6 @@
       "to correspond with",
       "to manage",
       "to handle"
-    ]
-  },
-  {
-    "id": 72101,
-    "hanzi": "合",
-    "pinyin": "hé",
-    "translations": [
-      "to fit",
-      "to close"
     ]
   },
   {
@@ -1656,29 +1430,12 @@
     ]
   },
   {
-    "id": 72401,
-    "hanzi": "印",
-    "pinyin": "yìn",
-    "translations": [
-      "to print",
-      "to seal"
-    ]
-  },
-  {
     "id": 725,
     "hanzi": "复杂",
     "pinyin": "fù zá",
     "translations": [
       "complicated",
       "complex"
-    ]
-  },
-  {
-    "id": 726,
-    "hanzi": "杂",
-    "pinyin": "zá",
-    "translations": [
-      "mixed"
     ]
   },
   {
@@ -1692,23 +1449,6 @@
     ]
   },
   {
-    "id": 72601,
-    "hanzi": "父",
-    "pinyin": "fù",
-    "translations": [
-      "father"
-    ]
-  },
-  {
-    "id": 72602,
-    "hanzi": "亲",
-    "pinyin": "qīn",
-    "translations": [
-      "parent",
-      "intimate"
-    ]
-  },
-  {
     "id": 727,
     "hanzi": "改变",
     "pinyin": "gǎi biàn",
@@ -1716,15 +1456,6 @@
       "to change",
       "to alter",
       "to transform"
-    ]
-  },
-  {
-    "id": 72701,
-    "hanzi": "改",
-    "pinyin": "gǎi",
-    "translations": [
-      "to change",
-      "to alter"
     ]
   },
   {
@@ -1806,7 +1537,7 @@
   {
     "id": 734,
     "hanzi": "干",
-    "pinyin": "gàn/gān",
+    "pinyin": "gàn",
     "translations": [
       "tree trunk",
       "main part of sth",
@@ -1816,8 +1547,7 @@
       "capable",
       "cadre",
       "to kill (slang)",
-      "to fuck (vulgar)",
-      "dry"
+      "to fuck (vulgar)"
     ]
   },
   {
@@ -1880,15 +1610,6 @@
     ]
   },
   {
-    "id": 74001,
-    "hanzi": "具",
-    "pinyin": "jù",
-    "translations": [
-      "tool",
-      "instrument"
-    ]
-  },
-  {
     "id": 741,
     "hanzi": "工资",
     "pinyin": "gōng zī",
@@ -1898,15 +1619,6 @@
       "CL:個|个",
       "份",
       "月[yuè]"
-    ]
-  },
-  {
-    "id": 74101,
-    "hanzi": "资",
-    "pinyin": "zī",
-    "translations": [
-      "resources",
-      "money"
     ]
   },
   {
@@ -1959,14 +1671,6 @@
     ]
   },
   {
-    "id": 74601,
-    "hanzi": "计",
-    "pinyin": "jì",
-    "translations": [
-      "to calculate"
-    ]
-  },
-  {
     "id": 747,
     "hanzi": "鼓励",
     "pinyin": "gǔ lì",
@@ -1981,14 +1685,6 @@
     "translations": [
       "to applaud",
       "to clap"
-    ]
-  },
-  {
-    "id": 74801,
-    "hanzi": "掌",
-    "pinyin": "zhǎng",
-    "translations": [
-      "palm of the hand"
     ]
   },
   {
@@ -2048,15 +1744,6 @@
     ]
   },
   {
-    "id": 75301,
-    "hanzi": "众",
-    "pinyin": "zhòng",
-    "translations": [
-      "many",
-      "crowd"
-    ]
-  },
-  {
     "id": 754,
     "hanzi": "管理",
     "pinyin": "guǎn lǐ",
@@ -2097,22 +1784,6 @@
     ]
   },
   {
-    "id": 75601,
-    "hanzi": "广",
-    "pinyin": "guǎng",
-    "translations": [
-      "wide"
-    ]
-  },
-  {
-    "id": 75602,
-    "hanzi": "播",
-    "pinyin": "bō",
-    "translations": [
-      "to broadcast"
-    ]
-  },
-  {
     "id": 757,
     "hanzi": "广告",
     "pinyin": "guǎng gào",
@@ -2149,29 +1820,11 @@
     ]
   },
   {
-    "id": 75901,
-    "hanzi": "规",
-    "pinyin": "guī",
-    "translations": [
-      "compass",
-      "regulation"
-    ]
-  },
-  {
     "id": 760,
     "hanzi": "国际",
     "pinyin": "guó jì",
     "translations": [
       "international"
-    ]
-  },
-  {
-    "id": 76001,
-    "hanzi": "际",
-    "pinyin": "jì",
-    "translations": [
-      "edge",
-      "inter-"
     ]
   },
   {
@@ -2228,38 +1881,12 @@
     ]
   },
   {
-    "id": 76401,
-    "hanzi": "程",
-    "pinyin": "chéng",
-    "translations": [
-      "sequence",
-      "journal"
-    ]
-  },
-  {
     "id": 765,
     "hanzi": "海洋",
     "pinyin": "hǎi yáng",
     "translations": [
       "ocean",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 76501,
-    "hanzi": "海",
-    "pinyin": "hǎi",
-    "translations": [
-      "ocean"
-    ]
-  },
-  {
-    "id": 76502,
-    "hanzi": "洋",
-    "pinyin": "yáng",
-    "translations": [
-      "ocean",
-      "foreign"
     ]
   },
   {
@@ -2273,27 +1900,11 @@
     ]
   },
   {
-    "id": 76601,
-    "hanzi": "羞",
-    "pinyin": "xiū",
-    "translations": [
-      "shy"
-    ]
-  },
-  {
     "id": 767,
     "hanzi": "寒假",
     "pinyin": "hán jià",
     "translations": [
       "winter vacation"
-    ]
-  },
-  {
-    "id": 76701,
-    "hanzi": "寒",
-    "pinyin": "hán",
-    "translations": [
-      "cold"
     ]
   },
   {
@@ -2321,15 +1932,6 @@
       "scheduled sailing",
       "sailing number",
       "passenger ship"
-    ]
-  },
-  {
-    "id": 76901,
-    "hanzi": "航",
-    "pinyin": "háng",
-    "translations": [
-      "to sail",
-      "to fly"
     ]
   },
   {
@@ -2386,45 +1988,17 @@
     ]
   },
   {
-    "id": 77401,
-    "hanzi": "适",
-    "pinyin": "shì",
-    "translations": [
-      "suitable",
-      "to fit"
-    ]
-  },
-  {
     "id": 775,
     "hanzi": "盒子",
     "pinyin": "hé zi",
     "translations": [
-      "case",
-      "box"
-    ]
-  },
-  {
-    "id": 77501,
-    "hanzi": "盒",
-    "pinyin": "hé",
-    "translations": [
-      "case",
-      "box"
+      "case"
     ]
   },
   {
     "id": 776,
     "hanzi": "猴子",
     "pinyin": "hóu zi",
-    "translations": [
-      "monkey",
-      "CL:隻|只[zhī]"
-    ]
-  },
-  {
-    "id": 77601,
-    "hanzi": "猴",
-    "pinyin": "hóu",
     "translations": [
       "monkey",
       "CL:隻|只[zhī]"
@@ -2513,14 +2087,6 @@
     ]
   },
   {
-    "id": 78401,
-    "hanzi": "忆",
-    "pinyin": "yì",
-    "translations": [
-      "to remember"
-    ]
-  },
-  {
     "id": 785,
     "hanzi": "活动",
     "pinyin": "huó dòng",
@@ -2537,14 +2103,6 @@
       "to use connections",
       "CL:項|项",
       "個|个[gè]"
-    ]
-  },
-  {
-    "id": 78501,
-    "hanzi": "活",
-    "pinyin": "huó",
-    "translations": [
-      "to live"
     ]
   },
   {
@@ -2602,15 +2160,6 @@
       "to excite",
       "to agitate",
       "exciting"
-    ]
-  },
-  {
-    "id": 79001,
-    "hanzi": "激",
-    "pinyin": "jī",
-    "translations": [
-      "to excite",
-      "to agitate"
     ]
   },
   {
@@ -2676,14 +2225,6 @@
     ]
   },
   {
-    "id": 79601,
-    "hanzi": "集",
-    "pinyin": "jí",
-    "translations": [
-      "to gather"
-    ]
-  },
-  {
     "id": 797,
     "hanzi": "寄",
     "pinyin": "jì",
@@ -2717,15 +2258,6 @@
     ]
   },
   {
-    "id": 79901,
-    "hanzi": "者",
-    "pinyin": "zhě",
-    "translations": [
-      "-er",
-      "-ist"
-    ]
-  },
-  {
     "id": 800,
     "hanzi": "计划",
     "pinyin": "jì huà",
@@ -2750,22 +2282,6 @@
       "CL:門|门",
       "種|种",
       "項|项[xiàng]"
-    ]
-  },
-  {
-    "id": 80101,
-    "hanzi": "技",
-    "pinyin": "jì",
-    "translations": [
-      "skill"
-    ]
-  },
-  {
-    "id": 80102,
-    "hanzi": "术",
-    "pinyin": "shù",
-    "translations": [
-      "technique"
     ]
   },
   {
@@ -2805,14 +2321,6 @@
     ]
   },
   {
-    "id": 80501,
-    "hanzi": "油",
-    "pinyin": "yóu",
-    "translations": [
-      "oil"
-    ]
-  },
-  {
     "id": 806,
     "hanzi": "假",
     "pinyin": "jiǎ",
@@ -2835,14 +2343,6 @@
     ]
   },
   {
-    "id": 80701,
-    "hanzi": "价",
-    "pinyin": "jià",
-    "translations": [
-      "price"
-    ]
-  },
-  {
     "id": 808,
     "hanzi": "坚持",
     "pinyin": "jiān chí",
@@ -2853,35 +2353,11 @@
     ]
   },
   {
-    "id": 80801,
-    "hanzi": "持",
-    "pinyin": "chí",
-    "translations": [
-      "to hold"
-    ]
-  },
-  {
     "id": 809,
     "hanzi": "减肥",
     "pinyin": "jiǎn féi",
     "translations": [
       "to lose weight"
-    ]
-  },
-  {
-    "id": 80901,
-    "hanzi": "减",
-    "pinyin": "jiǎn",
-    "translations": [
-      "to subtract"
-    ]
-  },
-  {
-    "id": 80902,
-    "hanzi": "肥",
-    "pinyin": "féi",
-    "translations": [
-      "fat"
     ]
   },
   {
@@ -2917,22 +2393,6 @@
     ]
   },
   {
-    "id": 81201,
-    "hanzi": "奖",
-    "pinyin": "jiǎng",
-    "translations": [
-      "prize"
-    ]
-  },
-  {
-    "id": 81202,
-    "hanzi": "金",
-    "pinyin": "jīn",
-    "translations": [
-      "gold"
-    ]
-  },
-  {
     "id": 813,
     "hanzi": "降低",
     "pinyin": "jiàng dī",
@@ -2940,14 +2400,6 @@
       "to reduce",
       "to lower",
       "to bring down"
-    ]
-  },
-  {
-    "id": 81301,
-    "hanzi": "降",
-    "pinyin": "jiàng",
-    "translations": [
-      "to drop"
     ]
   },
   {
@@ -2976,14 +2428,6 @@
     ]
   },
   {
-    "id": 81501,
-    "hanzi": "流",
-    "pinyin": "liú",
-    "translations": [
-      "to flow"
-    ]
-  },
-  {
     "id": 816,
     "hanzi": "交通",
     "pinyin": "jiāo tōng",
@@ -2996,15 +2440,6 @@
     ]
   },
   {
-    "id": 81601,
-    "hanzi": "通",
-    "pinyin": "tōng",
-    "translations": [
-      "to go through",
-      "to connect"
-    ]
-  },
-  {
     "id": 817,
     "hanzi": "骄傲",
     "pinyin": "jiāo ào",
@@ -3013,22 +2448,6 @@
       "arrogance",
       "conceited",
       "proud of sth"
-    ]
-  },
-  {
-    "id": 81701,
-    "hanzi": "傲",
-    "pinyin": "ào",
-    "translations": [
-      "proud"
-    ]
-  },
-  {
-    "id": 81702,
-    "hanzi": "骄",
-    "pinyin": "jiāo",
-    "translations": [
-      "proud"
     ]
   },
   {
@@ -3068,15 +2487,6 @@
     "id": 821,
     "hanzi": "接受",
     "pinyin": "jiē shòu",
-    "translations": [
-      "to accept",
-      "to receive"
-    ]
-  },
-  {
-    "id": 82101,
-    "hanzi": "受",
-    "pinyin": "shòu",
     "translations": [
       "to accept",
       "to receive"
@@ -3283,14 +2693,6 @@
     ]
   },
   {
-    "id": 83801,
-    "hanzi": "镜",
-    "pinyin": "jìng",
-    "translations": [
-      "mirror"
-    ]
-  },
-  {
     "id": 839,
     "hanzi": "究竟",
     "pinyin": "jiū jìng",
@@ -3337,14 +2739,6 @@
     "translations": [
       "to play a joke",
       "to make fun of",
-      "to joke"
-    ]
-  },
-  {
-    "id": 84301,
-    "hanzi": "玩笑",
-    "pinyin": "wán xiào",
-    "translations": [
       "to joke"
     ]
   },
@@ -3458,14 +2852,6 @@
     ]
   },
   {
-    "id": 85301,
-    "hanzi": "空",
-    "pinyin": "kōng",
-    "translations": [
-      "empty"
-    ]
-  },
-  {
     "id": 854,
     "hanzi": "恐怕",
     "pinyin": "kǒng pà",
@@ -3552,14 +2938,6 @@
     ]
   },
   {
-    "id": 86101,
-    "hanzi": "桶",
-    "pinyin": "lā jī tǒng",
-    "translations": [
-      "bucket"
-    ]
-  },
-  {
     "id": 862,
     "hanzi": "辣",
     "pinyin": "là",
@@ -3575,14 +2953,6 @@
     "translations": [
       "there's not enough time (to do sth)",
       "it's too late (to do sth)"
-    ]
-  },
-  {
-    "id": 86301,
-    "hanzi": "及",
-    "pinyin": "jí",
-    "translations": [
-      "to reach"
     ]
   },
   {
@@ -3612,14 +2982,6 @@
     ]
   },
   {
-    "id": 86601,
-    "hanzi": "费",
-    "pinyin": "fèi",
-    "translations": [
-      "to cost"
-    ]
-  },
-  {
     "id": 867,
     "hanzi": "浪漫",
     "pinyin": "làng màn",
@@ -3634,14 +2996,6 @@
     "translations": [
       "tiger",
       "CL:隻|只[zhī]"
-    ]
-  },
-  {
-    "id": 86801,
-    "hanzi": "虎",
-    "pinyin": "hǔ",
-    "translations": [
-      "tiger"
     ]
   },
   {
@@ -3732,24 +3086,6 @@
     ]
   },
   {
-    "id": 87601,
-    "hanzi": "例",
-    "pinyin": "lì",
-    "translations": [
-      "for example",
-      "for instance",
-      "such as"
-    ]
-  },
-  {
-    "id": 87602,
-    "hanzi": "如",
-    "pinyin": "rú",
-    "translations": [
-      "such as"
-    ]
-  },
-  {
     "id": 877,
     "hanzi": "俩",
     "pinyin": "liǎ",
@@ -3799,14 +3135,6 @@
     ]
   },
   {
-    "id": 88001,
-    "hanzi": "凉",
-    "pinyin": "liáng",
-    "translations": [
-      " cool"
-    ]
-  },
-  {
     "id": 881,
     "hanzi": "亮",
     "pinyin": "liàng",
@@ -3826,14 +3154,6 @@
     "translations": [
       "to chat",
       "to gossip"
-    ]
-  },
-  {
-    "id": 88201,
-    "hanzi": "聊",
-    "pinyin": "liáo",
-    "translations": [
-      "to chat"
     ]
   },
   {
@@ -3880,27 +3200,11 @@
     ]
   },
   {
-    "id": 88601,
-    "hanzi": "泪",
-    "pinyin": "lèi",
-    "translations": [
-      "tears"
-    ]
-  },
-  {
     "id": 887,
     "hanzi": "流利",
     "pinyin": "liú lì",
     "translations": [
       "fluent"
-    ]
-  },
-  {
-    "id": 88701,
-    "hanzi": "利",
-    "pinyin": "lì",
-    "translations": [
-      "sharp"
     ]
   },
   {
@@ -3994,25 +3298,9 @@
     ]
   },
   {
-    "id": 89401,
-    "hanzi": "毛",
-    "pinyin": "máo",
-    "translations": [
-      "hair"
-    ]
-  },
-  {
     "id": 895,
     "hanzi": "美丽",
     "pinyin": "měi lì",
-    "translations": [
-      "beautiful"
-    ]
-  },
-  {
-    "id": 895,
-    "hanzi": "美",
-    "pinyin": "měi",
     "translations": [
       "beautiful"
     ]
@@ -4036,22 +3324,6 @@
       "secret code",
       "password",
       "pin number"
-    ]
-  },
-  {
-    "id": 89701,
-    "hanzi": "密",
-    "pinyin": "mì",
-    "translations": [
-      "secret "
-    ]
-  },
-  {
-    "id": 89702,
-    "hanzi": "码",
-    "pinyin": "mǎ",
-    "translations": [
-      "code"
     ]
   },
   {
@@ -4080,15 +3352,6 @@
       "mother",
       "also pr. with light tone [mǔ qin]",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 90001,
-    "hanzi": "母",
-    "pinyin": "mǔ",
-    "translations": [
-      "mother",
-      "female"
     ]
   },
   {
@@ -4189,14 +3452,6 @@
     ]
   },
   {
-    "id": 90901,
-    "hanzi": "农",
-    "pinyin": "nóng",
-    "translations": [
-      "agriculture"
-    ]
-  },
-  {
     "id": 910,
     "hanzi": "弄",
     "pinyin": "nòng",
@@ -4221,15 +3476,6 @@
     ]
   },
   {
-    "id": 91101,
-    "hanzi": "暖",
-    "pinyin": "nuǎn",
-    "translations": [
-      "warm",
-      "nice and warm"
-    ]
-  },
-  {
     "id": 912,
     "hanzi": "偶尔",
     "pinyin": "ǒu ěr",
@@ -4248,15 +3494,6 @@
       "arrangement",
       "permutation (i.e. ordered choice of n elements out of m)"
     ]
-  },
-    {
-    "id": 91301,
-    "hanzi": "列",
-    "pinyin": "liè",
-    "translations": [
-      "to line up",
-      "series"
-      ]
   },
   {
     "id": 914,
@@ -4290,15 +3527,6 @@
     ]
   },
   {
-    "id": 91601,
-    "hanzi": "评",
-    "pinyin": "píng",
-    "translations": [
-      "to comment",
-      "to judge"
-    ]
-  },
-  {
     "id": 917,
     "hanzi": "皮肤",
     "pinyin": "pí fū",
@@ -4306,22 +3534,6 @@
       "skin",
       "CL:層|层",
       "塊|块[kuài]"
-    ]
-  },
-  {
-    "id": 91701,
-    "hanzi": "皮",
-    "pinyin": "pí",
-    "translations": [
-      "skin"
-    ]
-  },
-  {
-    "id": 91702,
-    "hanzi": "肤",
-    "pinyin": "fū",
-    "translations": [
-      "skin"
     ]
   },
   {
@@ -4374,18 +3586,6 @@
     ]
   },
   {
-    "id": 92101,
-    "hanzi": "乒乓",
-    "pinyin": "pīng pāng",
-    "translations": [
-      "table tennis",
-      "ping-pong",
-      "ping pong",
-      "table tennis ball",
-      "CL:個|个[gè]"
-    ]
-  },
-  {
     "id": 922,
     "hanzi": "平时",
     "pinyin": "píng shí",
@@ -4402,14 +3602,6 @@
     "translations": [
       "bottle",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 92301,
-    "hanzi": "瓶",
-    "pinyin": "píng",
-    "translations": [
-      "bottle"
     ]
   },
   {
@@ -4511,15 +3703,6 @@
     ]
   },
   {
-    "id": 93201,
-    "hanzi": "证",
-    "pinyin": "zhèng",
-    "translations": [
-      "certificate",
-      "to prove"
-    ]
-  },
-  {
     "id": 933,
     "hanzi": "墙",
     "pinyin": "qiáng",
@@ -4600,15 +3783,6 @@
     ]
   },
   {
-    "id": 93901,
-    "hanzi": "松",
-    "pinyin": "sōng",
-    "translations": [
-      "loose",
-      "pine tree"
-    ]
-  },
-  {
     "id": 940,
     "hanzi": "情况",
     "pinyin": "qíng kuàng",
@@ -4618,15 +3792,6 @@
       "situation",
       "CL:個|个",
       "種|种[zhǒng]"
-    ]
-  },
-  {
-    "id": 94001,
-    "hanzi": "况",
-    "pinyin": "kuàng",
-    "translations": [
-      "moreover",
-      "situation"
     ]
   },
   {
@@ -4713,18 +3878,6 @@
     ]
   },
   {
-    "id": 94801,
-    "hanzi": "缺",
-    "pinyin": "quē",
-    "translations": [
-      "lack",
-      "shortage of",
-      "shortfall",
-      "to be short (of)",
-      "to lack"
-    ]
-  },
-  {
     "id": 949,
     "hanzi": "却",
     "pinyin": "què",
@@ -4750,14 +3903,6 @@
       "reliable",
       "real",
       "true"
-    ]
-  },
-  {
-    "id": 95001,
-    "hanzi": "确",
-    "pinyin": "què",
-    "translations": [
-      "real"
     ]
   },
   {
@@ -4798,14 +3943,6 @@
     "translations": [
       "Renminbi (RMB)",
       "Chinese Yuan (CNY)"
-    ]
-  },
-  {
-    "id": 95401,
-    "hanzi": "人民",
-    "pinyin": "rén mín",
-    "translations": [
-      "the people"
     ]
   },
   {
@@ -4871,14 +4008,6 @@
     ]
   },
   {
-    "id": 96001,
-    "hanzi": "入",
-    "pinyin": "rù",
-    "translations": [
-      "to enter"
-    ]
-  },
-  {
     "id": 961,
     "hanzi": "软",
     "pinyin": "ruǎn",
@@ -4900,24 +4029,6 @@
     "id": 963,
     "hanzi": "森林",
     "pinyin": "sēn lín",
-    "translations": [
-      "forest",
-      "CL:片[piàn]"
-    ]
-  },
-  {
-    "id": 96302,
-    "hanzi": "林",
-    "pinyin": "lín",
-    "translations": [
-      "forest",
-      "CL:片[piàn]"
-    ]
-  },
-  {
-    "id": 96301,
-    "hanzi": "森",
-    "pinyin": "sēn",
     "translations": [
       "forest",
       "CL:片[piàn]"
@@ -4951,14 +4062,6 @@
       "to grieve",
       "to be broken-hearted",
       "to feel deeply hurt"
-    ]
-  },
-  {
-    "id": 96601,
-    "hanzi": "伤",
-    "pinyin": "shāng",
-    "translations": [
-      "to injure"
     ]
   },
   {
@@ -5030,15 +4133,6 @@
       "living",
       "biological",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 97301,
-    "hanzi": "命",
-    "pinyin": "mìng",
-    "translations": [
-      "life",
-      "fate"
     ]
   },
   {
@@ -5121,14 +4215,6 @@
     ]
   },
   {
-    "id": 98001,
-    "hanzi": "狮",
-    "pinyin": "shī",
-    "translations": [
-      "lion"
-    ]
-  },
-  {
     "id": 981,
     "hanzi": "十分",
     "pinyin": "shí fēn",
@@ -5174,26 +4260,6 @@
     "translations": [
       "foodstuff",
       "food",
-      "provisions",
-      "CL:種|种[zhǒng]"
-    ]
-  },
-  {
-    "id": 98401,
-    "hanzi": "食",
-    "pinyin": "shí",
-    "translations": [
-      "to eat",
-      "food"
-    ]
-  },
-  {
-    "id": 98402,
-    "hanzi": "品",
-    "pinyin": "pǐn",
-    "translations": [
-      "article",
-      "product",
       "provisions",
       "CL:種|种[zhǒng]"
     ]
@@ -5484,14 +4550,6 @@
     ]
   },
   {
-    "id": 101101,
-    "hanzi": "塑料",
-    "pinyin": "sù liào",
-    "translations": [
-      "plastic"
-    ]
-  },
-  {
     "id": 1012,
     "hanzi": "酸",
     "pinyin": "suān",
@@ -5540,15 +4598,6 @@
     "id": 1016,
     "hanzi": "孙子",
     "pinyin": "sūn zi",
-    "translations": [
-      "grandson",
-      "son's son"
-    ]
-  },
-  {
-    "id": 101601,
-    "hanzi": "孙",
-    "pinyin": "sūn",
     "translations": [
       "grandson",
       "son's son"
@@ -5859,15 +4908,6 @@
     ]
   },
   {
-    "id": 104201,
-    "hanzi": "袜",
-    "pinyin": "wà",
-    "translations": [
-      "socks",
-      "stockings"
-    ]
-  },
-  {
     "id": 1043,
     "hanzi": "完全",
     "pinyin": "wán quán",
@@ -5939,29 +4979,12 @@
     ]
   },
   {
-    "id": 104901,
-    "hanzi": "味",
-    "pinyin": "wèi",
-    "translations": [
-      "taste",
-      "smell"
-    ]
-  },
-  {
     "id": 1050,
     "hanzi": "温度",
     "pinyin": "wēn dù",
     "translations": [
       "temperature",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 105001,
-    "hanzi": "温",
-    "pinyin": "wēn",
-    "translations": [
-      "warm"
     ]
   },
   {
@@ -6031,15 +5054,6 @@
     ]
   },
   {
-    "id": 105601,
-    "hanzi": "论",
-    "pinyin": "lùn",
-    "translations": [
-      "opinion",
-      "view"
-    ]
-  },
-  {
     "id": 1057,
     "hanzi": "误会",
     "pinyin": "wù huì",
@@ -6067,15 +5081,6 @@
       "to attract (interest",
       "investment etc)",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 105901,
-    "hanzi": "吸",
-    "pinyin": "xī",
-    "translations": [
-      "to breath",
-      "to inhale"
     ]
   },
   {
@@ -6132,15 +5137,6 @@
     ]
   },
   {
-    "id": 106401,
-    "hanzi": "限",
-    "pinyin": "xiàn",
-    "translations": [
-      "to restrict",
-      "to limit"
-    ]
-  },
-  {
     "id": 1065,
     "hanzi": "香",
     "pinyin": "xiāng",
@@ -6173,15 +5169,6 @@
       "detailed",
       "in detail",
       "minute"
-    ]
-  },
-  {
-    "id": 106701,
-    "hanzi": "细",
-    "pinyin": "xì",
-    "translations": [
-      "thin",
-      "finely particule"
     ]
   },
   {
@@ -6292,22 +5279,6 @@
     ]
   },
   {
-    "id": 1077,
-    "hanzi": "信用",
-    "pinyin": "xìn yòng",
-    "translations": [
-      "credit"
-    ]
-  },
-  {
-    "id": 1077,
-    "hanzi": "卡",
-    "pinyin": "kǎ",
-    "translations": [
-      "card"
-    ]
-  },
-  {
     "id": 1078,
     "hanzi": "兴奋",
     "pinyin": "xīng fèn",
@@ -6360,14 +5331,6 @@
     ]
   },
   {
-    "id": 1081,
-    "hanzi": "性",
-    "pinyin": "xìng",
-    "translations": [
-      "attribute",
-      "sex"]
-  },
-  {
     "id": 1082,
     "hanzi": "性格",
     "pinyin": "xìng gé",
@@ -6387,15 +5350,6 @@
       "happiness",
       "happy",
       "blessed"
-    ]
-  },
-  {
-    "id": 108301,
-    "hanzi": "福",
-    "pinyin": "fú",
-    "translations": [
-      "happiness",
-      "good fortune"
     ]
   },
   {
@@ -6443,14 +5397,6 @@
     ]
   },
   {
-    "id": 108701,
-    "hanzi": "压",
-    "pinyin": "yā",
-    "translations": [
-      "to press"
-    ]
-  },
-  {
     "id": 1088,
     "hanzi": "牙膏",
     "pinyin": "yá gāo",
@@ -6460,36 +5406,12 @@
     ]
   },
   {
-    "id": 108801,
-    "hanzi": "牙",
-    "pinyin": "yá",
-    "translations": [
-      "tooth"
-    ]
-  },
-  {
     "id": 1089,
     "hanzi": "亚洲",
     "pinyin": "Yà zhōu",
     "translations": [
       "Asia",
       "Asian"
-    ]
-  },
-  {
-    "id": 108901,
-    "hanzi": "亚",
-    "pinyin": "Yà",
-    "translations": [
-      "Asia"
-    ]
-  },
-  {
-    "id": 108902,
-    "hanzi": "洲",
-    "pinyin": "zhōu",
-    "translations": [
-      "continent"
     ]
   },
   {
@@ -6533,14 +5455,6 @@
     ]
   },
   {
-    "id": 109301,
-    "hanzi": "重",
-    "pinyin": "zhòng",
-    "translations": [
-      "heavy"
-    ]
-  },
-  {
     "id": 1094,
     "hanzi": "研究生",
     "pinyin": "yán jiū shēng",
@@ -6548,14 +5462,6 @@
       "graduate student",
       "postgraduate student",
       "research student"
-    ]
-  },
-  {
-    "id": 109401,
-    "hanzi": "研究",
-    "pinyin": "yán jiū",
-    "translations": [
-      "research"
     ]
   },
   {
@@ -6571,15 +5477,6 @@
       "show",
       "CL:場|场",
       "次[cì]"
-    ]
-  },
-  {
-    "id": 109501,
-    "hanzi": "演",
-    "pinyin": "yǎn",
-    "translations": [
-      "to perform",
-      "to act"
     ]
   },
   {
@@ -6615,15 +5512,6 @@
     ]
   },
   {
-    "id": 109801,
-    "hanzi": "养",
-    "pinyin": "yǎng",
-    "translations": [
-      "to raise",
-      "to support"
-    ]
-  },
-  {
     "id": 1099,
     "hanzi": "样子",
     "pinyin": "yàng zi",
@@ -6642,15 +5530,6 @@
       "to invite",
       "invitation",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 110001,
-    "hanzi": "邀",
-    "pinyin": "yāo",
-    "translations": [
-      "to invite",
-      "invitation"
     ]
   },
   {
@@ -6688,14 +5567,6 @@
       "foliage",
       "leaf",
       "CL:片[piàn]"
-    ]
-  },
-  {
-    "id": 110401,
-    "hanzi": "叶",
-    "pinyin": "yè",
-    "translations": [
-      "leaf"
     ]
   },
   {
@@ -6784,15 +5655,6 @@
     ]
   },
   {
-    "id": 111201,
-    "hanzi": "饮",
-    "pinyin": "yǐn",
-    "translations": [
-      "drink",
-      "beverage"
-    ]
-  },
-  {
     "id": 1113,
     "hanzi": "印象",
     "pinyin": "yìn xiàng",
@@ -6835,27 +5697,9 @@
     ]
   },
   {
-    "id": 111601,
-    "hanzi": "勇",
-    "pinyin": "yǒng",
-    "translations": [
-      "brave",
-      "courageous"
-    ]
-  },
-  {
     "id": 1117,
     "hanzi": "永远",
     "pinyin": "yǒng yuǎn",
-    "translations": [
-      "forever",
-      "eternal"
-    ]
-  },
-  {
-    "id": 111701,
-    "hanzi": "永",
-    "pinyin": "yǒng",
     "translations": [
       "forever",
       "eternal"
@@ -6871,14 +5715,6 @@
       "strong point",
       "advantage",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 111801,
-    "hanzi": "优",
-    "pinyin": "yōu",
-    "translations": [
-      "superior"
     ]
   },
   {
@@ -7034,28 +5870,11 @@
     ]
   },
   {
-    "id": 113201,
-    "hanzi": "羽毛",
-    "pinyin": "yǔ máo",
-    "translations": [
-      "feather"
-    ]
-  },
-  {
     "id": 1133,
     "hanzi": "预习",
     "pinyin": "yù xí",
     "translations": [
       "to prepare a lesson"
-    ]
-  },
-  {
-    "id": 113301,
-    "hanzi": "预",
-    "pinyin": "yù",
-    "translations": [
-      "beforehand",
-      "to prepare"
     ]
   },
   {
@@ -7202,15 +6021,6 @@
     ]
   },
   {
-    "id": 114601,
-    "hanzi": "增",
-    "pinyin": "zēng",
-    "translations": [
-      "to add",
-      "to increase"
-    ]
-  },
-  {
     "id": 1147,
     "hanzi": "增长",
     "pinyin": "zēng zhǎng",
@@ -7236,23 +6046,6 @@
     "translations": [
       "recruitment",
       "to invite applications for a job"
-    ]
-  },
-  {
-    "id": 114901,
-    "hanzi": "招",
-    "pinyin": "zhāo",
-    "translations": [
-      "to recruit",
-      "to confess"
-    ]
-  },
-  {
-    "id": 114902,
-    "hanzi": "聘",
-    "pinyin": "pìn",
-    "translations": [
-      "to hire"
     ]
   },
   {
@@ -7335,15 +6128,6 @@
     ]
   },
   {
-    "id": 115601,
-    "hanzi": "式",
-    "pinyin": "shì",
-    "translations": [
-      "type",
-      "style"
-    ]
-  },
-  {
     "id": 1157,
     "hanzi": "证明",
     "pinyin": "zhèng míng",
@@ -7417,15 +6201,6 @@
     ]
   },
   {
-    "id": 116201,
-    "hanzi": "值",
-    "pinyin": "zhí",
-    "translations": [
-      "to be worth",
-      "value"
-    ]
-  },
-  {
     "id": 1163,
     "hanzi": "职业",
     "pinyin": "zhí yè",
@@ -7489,15 +6264,6 @@
     ]
   },
   {
-    "id": 116801,
-    "hanzi": "造",
-    "pinyin": "zào",
-    "translations": [
-      "to manufacture",
-      "to make"
-    ]
-  },
-  {
     "id": 1169,
     "hanzi": "至少",
     "pinyin": "zhì shǎo",
@@ -7514,23 +6280,6 @@
       "quality",
       "mass (in physics)",
       "CL:個|个[gè]"
-    ]
-  },
-  {
-    "id": 117001,
-    "hanzi": "质",
-    "pinyin": "zhì",
-    "translations": [
-      "character"
-    ]
-  },
-  {
-    "id": 117002,
-    "hanzi": "量",
-    "pinyin": "liàng",
-    "translations": [
-      "quantity",
-      "amount"
     ]
   },
   {
@@ -7651,14 +6400,6 @@
     ]
   },
   {
-    "id": 118101,
-    "hanzi": "专",
-    "pinyin": "zhuān",
-    "translations": [
-      "special"
-    ]
-  },
-  {
     "id": 1182,
     "hanzi": "专业",
     "pinyin": "zhuān yè",
@@ -7702,16 +6443,6 @@
       "accurate",
       "exact",
       "precise"
-    ]
-  },
-  {
-    "id": 118501,
-    "hanzi": "确",
-    "pinyin": "zhǔn",
-    "translations": [
-      "accurate",
-      "to allow",
-      "to grant"
     ]
   },
   {
@@ -7781,14 +6512,6 @@
     ]
   },
   {
-    "id": 119101,
-    "hanzi": "组",
-    "pinyin": "zǔ",
-    "translations": [
-      "to form"
-    ]
-  },
-  {
     "id": 1192,
     "hanzi": "组织",
     "pinyin": "zǔ zhī",
@@ -7854,14 +6577,6 @@
     "pinyin": "zuò shēng yì",
     "translations": [
       "to do business"
-    ]
-  },
-  {
-    "id": 119701,
-    "hanzi": "生意",
-    "pinyin": "shēng yì",
-    "translations": [
-      "business"
     ]
   },
   {

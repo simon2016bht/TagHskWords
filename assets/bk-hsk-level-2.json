@@ -59,16 +59,34 @@
       "to assist"
     ]
   },
+    {
+    "id": 15401,
+    "hanzi": "帮",
+    "pinyin": "bāng",
+    "translations": [
+      "assistance",
+      "aid",
+      "to help",
+      "to assist"
+    ]
+  },
   {
     "id": 155,
     "hanzi": "报纸",
     "pinyin": "bào zhǐ",
     "translations": [
       "newspaper",
-      "newsprint",
       "CL:份",
       "期",
       "張|张[zhāng]"
+    ]
+  },
+  {
+    "id": 15501,
+    "hanzi": "纸",
+    "pinyin": "zhǐ",
+    "translations": [
+      "paper"
     ]
   },
   {
@@ -118,6 +136,22 @@
     "pinyin": "chàng gē",
     "translations": [
       "to sing a song"
+    ]
+  },
+  {
+    "id": 15901,
+    "hanzi": "唱",
+    "pinyin": "chàng",
+    "translations": [
+      "to sing"
+    ]
+  },
+  {
+    "id": 15902,
+    "hanzi": "歌",
+    "pinyin": "gē",
+    "translations": [
+      "song"
     ]
   },
   {
@@ -236,9 +270,17 @@
   {
     "id": 166,
     "hanzi": "打篮球",
-    "pinyin": "dá lán qiú",
+    "pinyin": "dǎ lán qiú",
     "translations": [
       "Play basketball"
+    ]
+  },
+  {
+    "id": 16601,
+    "hanzi": "球",
+    "pinyin": "qiú",
+    "translations": [
+      "ball"
     ]
   },
   {
@@ -255,6 +297,15 @@
     "id": 168,
     "hanzi": "但是",
     "pinyin": "dàn shì",
+    "translations": [
+      "but",
+      "however"
+    ]
+  },
+  {
+    "id": 16801,
+    "hanzi": "但",
+    "pinyin": "dàn",
     "translations": [
       "but",
       "however"
@@ -305,6 +356,14 @@
     ]
   },
   {
+    "id": 17201,
+    "hanzi": "弟",
+    "pinyin": "dì",
+    "translations": [
+      "younger brother"
+    ]
+  },
+  {
     "id": 173,
     "hanzi": "第一",
     "pinyin": "dì yī",
@@ -329,6 +388,25 @@
     "translations": [
       "room",
       "CL:間|间[jiān]"
+    ]
+  },
+  {
+    "id": 17501,
+    "hanzi": "房",
+    "pinyin": "fáng",
+    "translations": [
+      "room",
+      "CL:間|间[jiān]"
+    ]
+  },
+  {
+    "id": 17502,
+    "hanzi": "间",
+    "pinyin": "jiān",
+    "translations": [
+      "within a definite time or space",
+      "Classifier",
+      "between, among"
     ]
   },
   {
@@ -388,6 +466,14 @@
     ]
   },
   {
+    "id": 18001,
+    "hanzi": "哥",
+    "pinyin": "gē",
+    "translations": [
+      "older brother"
+    ]
+  },
+  {
     "id": 181,
     "hanzi": "给",
     "pinyin": "gěi",
@@ -409,6 +495,36 @@
       "bus",
       "CL:輛|辆",
       "班[bān]"
+    ]
+  },
+  {
+    "id": 18201,
+    "hanzi": "公共",
+    "pinyin": "gōng gòng",
+    "translations": [
+      "public"
+    ]
+  },
+  {
+    "id": 18202,
+    "hanzi": "公",
+    "pinyin": "gōng",
+    "translations": [
+      "public",
+      "collectively owned",
+      "fair",
+      "male (animal)"
+    ]
+  },
+  {
+    "id": 18203,
+    "hanzi": "共",
+    "pinyin": "gòng",
+    "translations": [
+      "to share",
+      "together",
+      "total",
+      "altogether"
     ]
   },
   {
@@ -466,6 +582,14 @@
     "id": 187,
     "hanzi": "孩子",
     "pinyin": "hái zi",
+    "translations": [
+      "child"
+    ]
+  },
+  {
+    "id": 18701,
+    "hanzi": "孩",
+    "pinyin": "hái",
     "translations": [
       "child"
     ]
@@ -549,6 +673,17 @@
     ]
   },
   {
+    "id": 19401,
+    "hanzi": "答",
+    "pinyin": "dá",
+    "translations": [
+      "to reply",
+      "to answer",
+      "the answer",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
     "id": 195,
     "hanzi": "机场",
     "pinyin": "jī chǎng",
@@ -568,6 +703,22 @@
       "hen's egg",
       "CL:個|个",
       "打[dá]"
+    ]
+  },
+  {
+    "id": 19601,
+    "hanzi": "蛋",
+    "pinyin": "dàn",
+    "translations": [
+      "egg"
+    ]
+  },
+  {
+    "id": 19601,
+    "hanzi": "鸡",
+    "pinyin": "jī",
+    "translations": [
+      "chicken"
     ]
   },
   {
@@ -598,6 +749,14 @@
     "translations": [
       "older sister",
       "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 19901,
+    "hanzi": "姐",
+    "pinyin": "jiě",
+    "translations": [
+      "older sister"
     ]
   },
   {
@@ -704,6 +863,15 @@
       "to take an exam",
       "exam",
       "CL:次[cì]"
+    ]
+  },
+  {
+    "id": 20701,
+    "hanzi": "考",
+    "pinyin": "kǎo",
+    "translations": [
+      "to take an exam",
+      "exam"
     ]
   },
   {
@@ -897,6 +1065,14 @@
     ]
   },
   {
+    "id": 22201,
+    "hanzi": "妹",
+    "pinyin": "mèi",
+    "translations": [
+      "younger sister"
+    ]
+  },
+  {
     "id": 223,
     "hanzi": "门",
     "pinyin": "mén",
@@ -937,6 +1113,15 @@
     ]
   },
   {
+    "id": 22401,
+    "hanzi": "男",
+    "pinyin": "nán",
+    "translations": [
+      "a man",
+      "a male"
+    ]
+  },
+  {
     "id": 225,
     "hanzi": "您",
     "pinyin": "nín",
@@ -956,9 +1141,33 @@
     ]
   },
   {
+    "id": 22601,
+    "hanzi": "牛",
+    "pinyin": "niú",
+    "translations": [
+      "cattle/cow/bull"
+    ]
+  },
+  {
+    "id": 22602,
+    "hanzi": "奶",
+    "pinyin": "nǎi",
+    "translations": [
+      "milk"
+    ]
+  },
+  {
     "id": 227,
     "hanzi": "女人",
     "pinyin": "nǚ rén",
+    "translations": [
+      "woman"
+    ]
+  },
+  {
+    "id": 22701,
+    "hanzi": "女",
+    "pinyin": "nǚ",
     "translations": [
       "woman"
     ]
@@ -975,9 +1184,39 @@
     ]
   },
   {
+    "id": 22801,
+    "hanzi": "旁",
+    "pinyin": "páng",
+    "translations": [
+      "side",
+      "to the side",
+      "beside"
+    ]
+  },
+  {
+    "id": 22802,
+    "hanzi": "边",
+    "pinyin": "biān",
+    "translations": [
+      "side",
+      "boundry",
+      "edge"
+    ]
+  },
+  {
     "id": 229,
     "hanzi": "跑步",
     "pinyin": "pǎo bù",
+    "translations": [
+      "to walk quickly",
+      "to march",
+      "to run"
+    ]
+  },
+  {
+    "id": 22901,
+    "hanzi": "跑",
+    "pinyin": "pǎo",
     "translations": [
       "to walk quickly",
       "to march",
@@ -1019,12 +1258,31 @@
     ]
   },
   {
+    "id": 23201,
+    "hanzi": "妻",
+    "pinyin": "qī",
+    "translations": [
+      "wife",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
     "id": 233,
     "hanzi": "起床",
     "pinyin": "qǐ chuáng",
     "translations": [
       "to get out of bed",
       "to get up"
+    ]
+  },
+  {
+    "id": 23301,
+    "hanzi": "起",
+    "pinyin": "qǐ",
+    "translations": [
+      "to rise",
+      "to get up",
+      "to appear"
     ]
   },
   {
@@ -1085,11 +1343,30 @@
     ]
   },
   {
+    "id": 23901,
+    "hanzi": "体",
+    "pinyin": "tǐ",
+    "translations": [
+      "body",
+      "form",
+      "style"
+    ]
+  },
+  {
     "id": 240,
     "hanzi": "生病",
     "pinyin": "shēng bìng",
     "translations": [
       "to fall ill"
+    ]
+  },
+  {
+    "id": 24001,
+    "hanzi": "病",
+    "pinyin": "bìng",
+    "translations": [
+      "ill",
+      "sick"
     ]
   },
   {
@@ -1099,6 +1376,14 @@
     "translations": [
       "birthday",
       "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 24101,
+    "hanzi": "日",
+    "pinyin": "rì",
+    "translations": [
+      "day"
     ]
   },
   {
@@ -1125,6 +1410,28 @@
     ]
   },
   {
+    "id": 24301,
+    "hanzi": "事",
+    "pinyin": "shì",
+    "translations": [
+      "affair",
+      "matter",
+      "thing",
+      "business",
+      "CL:件"
+      ]
+  },
+  {
+    "id": 24302,
+    "hanzi": "情",
+    "pinyin": "qíng",
+    "translations": [
+      "situation",
+      "feeling",
+      "emotion"
+    ]
+  },
+  {
     "id": 244,
     "hanzi": "手表",
     "pinyin": "shǒu biǎo",
@@ -1133,6 +1440,14 @@
       "CL:塊|块",
       "隻|只",
       "個|个[gè]"
+    ]
+  },
+  {
+    "id": 24401,
+    "hanzi": "手",
+    "pinyin": "shǒu",
+    "translations": [
+      "hand"
     ]
   },
   {
@@ -1258,6 +1573,15 @@
     ]
   },
   {
+    "id": 25501,
+    "hanzi": "晚",
+    "pinyin": "wǎn",
+    "translations": [
+      "evening",
+      "night"
+    ]
+  },
+  {
     "id": 256,
     "hanzi": "为",
     "pinyin": "wèi",
@@ -1295,6 +1619,14 @@
     "translations": [
       "watermelon",
       "CL:條|条[tiáo]"
+    ]
+  },
+  {
+    "id": 25901,
+    "hanzi": "瓜",
+    "pinyin": "guā",
+    "translations": [
+      "melon"
     ]
   },
   {
@@ -1407,9 +1739,27 @@
     ]
   },
   {
+    "id": 26901,
+    "hanzi": "色",
+    "pinyin": "sè",
+    "translations": [
+      "color"
+    ]
+  },
+  {
     "id": 270,
     "hanzi": "眼睛",
     "pinyin": "yǎn jing",
+    "translations": [
+      "eye",
+      "CL:隻|只",
+      "雙|双[shuāng]"
+    ]
+  },
+  {
+    "id": 27001,
+    "hanzi": "眼",
+    "pinyin": "yǎn",
     "translations": [
       "eye",
       "CL:隻|只",
@@ -1422,6 +1772,14 @@
     "pinyin": "yáng ròu",
     "translations": [
       "mutton"
+    ]
+  },
+  {
+    "id": 27101,
+    "hanzi": "羊",
+    "pinyin": "yáng",
+    "translations": [
+      "sheep; goat"
     ]
   },
   {
@@ -1471,6 +1829,14 @@
     ]
   },
   {
+    "id": 27501,
+    "hanzi": "已",
+    "pinyin": "yǐ",
+    "translations": [
+      "already"
+    ]
+  },
+  {
     "id": 276,
     "hanzi": "一起",
     "pinyin": "yī qǐ",
@@ -1493,6 +1859,16 @@
       "desire",
       "CL:個|个[gè]"
     ]
+  },
+  {
+    "id": 27701,
+    "hanzi": "意",
+    "pinyin": "yì",
+    "translations": [
+      "idea",
+      "meaning",
+      "desire"
+      ]
   },
   {
     "id": 278,
@@ -1538,6 +1914,14 @@
       "right side",
       "right",
       "to the right"
+    ]
+  },
+  {
+    "id": 28101,
+    "hanzi": "右",
+    "pinyin": "yòu",
+    "translations": [
+      "right"
     ]
   },
   {
@@ -1587,6 +1971,14 @@
     ]
   },
   {
+    "id": 28501,
+    "hanzi": "动",
+    "pinyin": "dòng",
+    "translations": [
+      "to move"
+    ]
+  },
+  {
     "id": 286,
     "hanzi": "再",
     "pinyin": "zài",
@@ -1610,6 +2002,14 @@
     ]
   },
   {
+    "id": 28701,
+    "hanzi": "早",
+    "pinyin": "zǎo",
+    "translations": [
+      "early"
+    ]
+  },
+  {
     "id": 288,
     "hanzi": "张",
     "pinyin": "zhāng",
@@ -1625,15 +2025,9 @@
   {
     "id": 289,
     "hanzi": "长",
-    "pinyin": "zhǎng",
+    "pinyin": "cháng",
     "translations": [
-      "chief",
-      "head",
-      "elder",
-      "to grow",
-      "to develop",
-      "to increase",
-      "to enhance"
+      "long"
     ]
   },
   {
@@ -1643,6 +2037,14 @@
     "translations": [
       "husband",
       "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 29001,
+    "hanzi": "夫",
+    "pinyin": "fū",
+    "translations": [
+      "husband"
     ]
   },
   {
@@ -1761,6 +2163,14 @@
       "left",
       "the left side",
       "to the left of"
+    ]
+  },
+  {
+    "id": 3001,
+    "hanzi": "左",
+    "pinyin": "zuǒ",
+    "translations": [
+      "left"
     ]
   }
 ]

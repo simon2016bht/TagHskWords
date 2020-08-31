@@ -42,6 +42,24 @@
     ]
   },
   {
+    "id": 40100,
+    "hanzi": "杯",
+    "pinyin": "bēi",
+    "translations": [
+      "cup",
+      "glass"
+    ]
+  },
+  {
+    "id": 40200,
+    "hanzi": "子",
+    "pinyin": "zi/zǐ",
+    "translations": [
+      "small thing",
+      "child"    
+    ]
+  },
+  {
     "id": 5,
     "hanzi": "北京",
     "pinyin": "Běi jīng",
@@ -50,6 +68,22 @@
       "capital of People's Republic of China",
       "Peking",
       "PRC government"
+    ]
+  },
+  {
+    "id": 50100,
+    "hanzi": "京",
+    "pinyin": "jīng",
+    "translations": [
+      "capital city"
+    ]
+  },
+  {
+    "id": 50200,
+    "hanzi": "北",
+    "pinyin": "běi",
+    "translations": [
+      "north"
     ]
   },
   {
@@ -81,6 +115,25 @@
       "rude",
       "blunt",
       "don't mention it"
+    ]
+  },
+  {
+    "id": 70100,
+    "hanzi": "客",
+    "pinyin": "kè",
+    "translations": [
+      "guest",
+      "visitor"
+    ]
+  },
+  {
+    "id": 70200,
+    "hanzi": "气",
+    "pinyin": "qì",
+    "translations": [
+      "air",
+      "gas",
+      "angry"
     ]
   },
   {
@@ -164,6 +217,31 @@
     ]
   },
   {
+    "id": 1302,
+    "hanzi": "打",
+    "pinyin": "dǎ",
+    "translations": [
+      "to make a telephone call",
+      "to beat",
+      "to strike",
+      "to hit",
+      "to break",
+      "to type",
+      "to mix up",
+      "to build",
+      "to fight",
+      "to fetch",
+      "to make",
+      "to tie up",
+      "to issue",
+      "to shoot",
+      " to calculate",
+      " to play (a game)",
+      " since",
+      " from"
+    ]
+  },
+  {
     "id": 14,
     "hanzi": "大",
     "pinyin": "dà",
@@ -234,6 +312,14 @@
       "TV",
       "CL:臺|台",
       "個|个[gè]"
+    ]
+  },
+  {
+    "id": 1801,
+    "hanzi": "视",
+    "pinyin": "shì",
+    "translations": [
+      "to look at"
     ]
   },
   {
@@ -362,6 +448,14 @@
     ]
   },
   {
+    "id": 2801,
+    "hanzi": "馆",
+    "pinyin": "guǎn",
+    "translations": [
+      "building"
+    ]
+  },
+  {
     "id": 29,
     "hanzi": "飞机",
     "pinyin": "fēi jī",
@@ -428,6 +522,22 @@
       "CL:個|个",
       "份",
       "項|项[xiàng]"
+    ]
+  },
+  {
+    "id": 330100,
+    "hanzi": "作",
+    "pinyin": "zuò",
+    "translations": [
+      "to do"
+    ]
+  },
+  {
+    "id": 330200,
+    "hanzi": "工",
+    "pinyin": "gōng zuò",
+    "translations": [
+      "work"
     ]
   },
   {
@@ -675,6 +785,15 @@
     ]
   },
   {
+    "id": 510100,
+    "hanzi": "见",
+    "pinyin": "jiàn",
+    "translations": [
+      "to see",
+      "to catch sight of"
+    ]
+  },
+  {
     "id": 52,
     "hanzi": "块",
     "pinyin": "kuài",
@@ -860,6 +979,15 @@
     ]
   },
   {
+    "id": 6801,
+    "hanzi": "名",
+    "pinyin": "míng",
+    "translations": [
+      "name (of a person or thing)",
+      "famous"
+    ]
+  },
+  {
     "id": 69,
     "hanzi": "哪",
     "pinyin": "nǎ",
@@ -963,6 +1091,16 @@
       "apple",
       "CL:個|个",
       "顆|颗[kē]"
+    ]
+  },
+  {
+    "id": 780100,
+    "hanzi": "果",
+    "pinyin": "guǒ",
+    "translations": [
+      "fruit",
+      "result",
+      "indeed"
     ]
   },
   {
@@ -1406,6 +1544,14 @@
     ]
   },
   {
+    "id": 11002,
+    "hanzi": "同",
+    "pinyin": "tóng",
+    "translations": [
+      "same"
+    ]
+  },
+  {
     "id": 111,
     "hanzi": "喂",
     "pinyin": "wèi",
@@ -1660,6 +1806,14 @@
     ]
   },
   {
+    "id": 13201,
+    "hanzi": "衣",
+    "pinyin": "yī",
+    "translations": [
+      "clothes"
+    ]
+  },
+  {
     "id": 133,
     "hanzi": "医生",
     "pinyin": "yī shēng",
@@ -1772,6 +1926,15 @@
       "how about?",
       "how was it?",
       "how are things?"
+    ]
+  },
+  {
+    "id": 14101,
+    "hanzi": "样",
+    "pinyin": "yàng",
+    "translations": [
+      "pattern",
+      "manner"
     ]
   },
   {

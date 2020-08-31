@@ -136,8 +136,15 @@
     "hanzi": "出租车",
     "pinyin": "chū zū chē",
     "translations": [
-      "taxi",
-      "(Taiwan) rental car"
+      "taxi"
+    ]
+  },
+  {
+    "id": 1201,
+    "hanzi": "车",
+    "pinyin": "chē",
+    "translations": [
+      "car"
     ]
   },
   {
@@ -146,6 +153,14 @@
     "pinyin": "dǎ diàn huà",
     "translations": [
       "to make a telephone call"
+    ]
+  },
+  {
+    "id": 1301,
+    "hanzi": "电话",
+    "pinyin": "diàn huà",
+    "translations": [
+      "telephone"
     ]
   },
   {
@@ -320,6 +335,14 @@
     ]
   },
   {
+    "id": 2601,
+    "hanzi": "儿",
+    "pinyin": "ér",
+    "translations": [
+      "son"
+    ]
+  },
+  {
     "id": 27,
     "hanzi": "二",
     "pinyin": "èr",
@@ -348,6 +371,24 @@
     ]
   },
   {
+    "id": 2901,
+    "hanzi": "飞",
+    "pinyin": "fēi",
+    "translations": [
+      "to fly"
+    ]
+  },
+  {
+    "id": 2902,
+    "hanzi": "机",
+    "pinyin": "jī",
+    "translations": [
+      "machine",
+      "opportunity",
+      "engine"
+    ]
+  },
+  {
     "id": 30,
     "hanzi": "分钟",
     "pinyin": "fēn zhōng",
@@ -369,9 +410,9 @@
   {
     "id": 32,
     "hanzi": "个",
-    "pinyin": "gè",
+    "pinyin": "ge",
     "translations": [
-      "variant of 個|个[gè]"
+      "classifier for people or objects in general"
     ]
   },
   {
@@ -472,6 +513,15 @@
     ]
   },
   {
+    "id": 4001,
+    "hanzi": "后",
+    "pinyin": "hòu",
+    "translations": [
+      "after",
+      "later"
+    ]
+  },
+  {
     "id": 41,
     "hanzi": "回",
     "pinyin": "huí",
@@ -562,6 +612,15 @@
     ]
   },
   {
+    "id": 4701,
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "translations": [
+      "day",
+      "sky"
+    ]
+  },
+  {
     "id": 48,
     "hanzi": "九",
     "pinyin": "jiǔ",
@@ -580,8 +639,7 @@
       "to turn on",
       "to boil",
       "to write out (a medical prescription)",
-      "to operate (vehicle)",
-      "abbr. for 開爾文|开尔文 degrees Kelvin"
+      "to operate (vehicle)"
     ]
   },
   {
@@ -777,6 +835,14 @@
     ]
   },
   {
+    "id": 6601,
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "translations": [
+      "(cooked) rice"
+    ]
+  },
+  {
     "id": 67,
     "hanzi": "明天",
     "pinyin": "míng tiān",
@@ -932,6 +998,16 @@
     ]
   },
   {
+    "id": 8101,
+    "hanzi": "前",
+    "pinyin": "qián",
+    "translations": [
+      "ahead",
+      "in front",
+      "before"
+    ]
+  },
+  {
     "id": 82,
     "hanzi": "请",
     "pinyin": "qǐng",
@@ -1026,9 +1102,25 @@
     "pinyin": "shāng diàn",
     "translations": [
       "store",
-      "shop",
-      "CL:家",
-      "個|个[gè]"
+      "shop"
+    ]
+  },
+  {
+    "id": 8901,
+    "hanzi": "商",
+    "pinyin": "shāng",
+    "translations": [
+      "business",
+      "merchant"
+    ]
+  },
+  {
+    "id": 8902,
+    "hanzi": "店",
+    "pinyin": "diàn",
+    "translations": [
+      "store",
+      "shop"
     ]
   },
   {
@@ -1108,6 +1200,18 @@
     ]
   },
   {
+    "id": 9601,
+    "hanzi": "时",
+    "pinyin": "shí",
+    "translations": [
+      "time",
+      "length of time",
+      "moment",
+      "period"
+    ]
+  },
+  
+  {
     "id": 97,
     "hanzi": "是",
     "pinyin": "shì",
@@ -1164,6 +1268,15 @@
     ]
   },
   {
+    "id": 10101,
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "translations": [
+      "to go to bed",
+      "to sleep"
+    ]
+  },
+  {
     "id": 102,
     "hanzi": "说话",
     "pinyin": "shuō huà",
@@ -1175,6 +1288,27 @@
       "to tell stories",
       "talk",
       "word"
+    ]
+  },
+  {
+    "id": 10201,
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "translations": [
+      "to speak",
+      "to say",
+      "to talk",
+      "to gossip",
+      "to tell stories"
+    ]
+  },
+  {
+    "id": 10202,
+    "hanzi": "话",
+    "pinyin": "huà",
+    "translations": [
+      "words",
+      "speech"
     ]
   },
   {
@@ -1262,11 +1396,21 @@
     ]
   },
   {
+    "id": 11001,
+    "hanzi": "学",
+    "pinyin": "xué",
+    "translations": [
+      "to study",
+      "to learn",
+      "(n.) science"
+    ]
+  },
+  {
     "id": 111,
     "hanzi": "喂",
     "pinyin": "wèi",
     "translations": [
-      "to feed"
+      "hello (when answering the phone)"
     ]
   },
   {
@@ -1355,6 +1499,16 @@
     ]
   },
   {
+    "id": 11901,
+    "hanzi": "生",
+    "pinyin": "sheng",
+    "translations": [
+      "(v.) to born; to grow; to produce",
+      "(adj.) raw; unfamiliar",
+      "(n.) character; life"
+    ]
+  },
+  {
     "id": 120,
     "hanzi": "现在",
     "pinyin": "xiàn zài",
@@ -1426,6 +1580,15 @@
     "id": 126,
     "hanzi": "谢谢",
     "pinyin": "xiè xie",
+    "translations": [
+      "to thank",
+      "thanks"
+    ]
+  },
+  {
+    "id": 12601,
+    "hanzi": "谢",
+    "pinyin": "xiè",
     "translations": [
       "to thank",
       "thanks"
@@ -1508,6 +1671,16 @@
     ]
   },
   {
+    "id": 13301,
+    "hanzi": "医",
+    "pinyin": "yī",
+    "translations": [
+      "doctor",
+      "medical",
+      "to cure"
+    ]
+  },
+  {
     "id": 134,
     "hanzi": "医院",
     "pinyin": "yī yuàn",
@@ -1522,6 +1695,16 @@
     "id": 135,
     "hanzi": "椅子",
     "pinyin": "yǐ zi",
+    "translations": [
+      "chair",
+      "CL:把",
+      "套[tào]"
+    ]
+  },
+  {
+    "id": 13501,
+    "hanzi": "椅",
+    "pinyin": "yǐ",
     "translations": [
       "chair",
       "CL:把",
@@ -1612,6 +1795,22 @@
     ]
   },
   {
+    "id": 14301,
+    "hanzi": "中",
+    "pinyin": "Zhōng",
+    "translations": [
+      "Middle"
+    ]
+  },
+  {
+    "id": 14302,
+    "hanzi": "国",
+    "pinyin": "guó",
+    "translations": [
+      "Couountr; nation"
+    ]
+  },
+  {
     "id": 144,
     "hanzi": "中午",
     "pinyin": "zhōng wǔ",
@@ -1640,6 +1839,17 @@
     "id": 146,
     "hanzi": "桌子",
     "pinyin": "zhuō zi",
+    "translations": [
+      "table",
+      "desk",
+      "CL:張|张",
+      "套[tào]"
+    ]
+  },
+  {
+    "id": 146,
+    "hanzi": "桌",
+    "pinyin": "zhuō",
     "translations": [
       "table",
       "desk",
