@@ -373,6 +373,14 @@
     ]
   },
   {
+    "id": 17301,
+    "hanzi": "第",
+    "pinyin": "dì",
+    "translations": [
+      "ordial number"
+    ]
+  },
+  {
     "id": 174,
     "hanzi": "懂",
     "pinyin": "dǒng",
@@ -538,6 +546,15 @@
       "bus",
       "CL:輛|辆",
       "班[bān]"
+    ]
+  },
+  {
+    "id": 18201,
+    "hanzi": "汽",
+    "pinyin": "qì",
+    "translations": [
+      "steam",
+      "vapor"
     ]
   },
   {
@@ -783,6 +800,14 @@
     "translations": [
       "classroom",
       "CL:間|间[jiān]"
+    ]
+  },
+  {
+    "id": 19801,
+    "hanzi": "室",
+    "pinyin": "shì",
+    "translations": [
+      "room"
     ]
   },
   {

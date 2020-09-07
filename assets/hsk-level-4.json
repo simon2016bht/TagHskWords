@@ -1842,6 +1842,15 @@
     ]
   },
   {
+    "id": 73501,
+    "hanzi": "刚",
+    "pinyin": "gāng",
+    "translations": [
+      "just recently",
+      "just a moment ago"
+    ]
+  },
+  {
     "id": 736,
     "hanzi": "高级",
     "pinyin": "gāo jí",
@@ -4702,6 +4711,16 @@
     ]
   },
   {
+    "id": 94601,
+    "hanzi": "全",
+    "pinyin": "quán",
+    "translations": [
+      "whole",
+      "entire",
+      "complete"
+    ]
+  },
+  {
     "id": 947,
     "hanzi": "缺点",
     "pinyin": "quē diǎn",
@@ -5381,6 +5400,14 @@
     "pinyin": "shòu",
     "translations": [
       "to sell"
+    ]
+  },
+  {
+    "id": 99802,
+    "hanzi": "货",
+    "pinyin": "huò",
+    "translations": [
+      "goods"
     ]
   },
   {
@@ -6108,6 +6135,14 @@
       "to attract (interest",
       "investment etc)",
       "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 105901,
+    "hanzi": "引",
+    "pinyin": "yǐn",
+    "translations": [
+      "to attract (interest"
     ]
   },
   {
@@ -7478,6 +7513,17 @@
     "id": 1163,
     "hanzi": "职业",
     "pinyin": "zhí yè",
+    "translations": [
+      "occupation",
+      "profession",
+      "vocation",
+      "professional"
+    ]
+  },
+  {
+    "id": 116301,
+    "hanzi": "职",
+    "pinyin": "zhí",
     "translations": [
       "occupation",
       "profession",

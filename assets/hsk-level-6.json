@@ -4991,6 +4991,15 @@
     ]
   },
   {
+    "id": 299901,
+    "hanzi": "额",
+    "pinyin": "é",
+    "translations": [
+      "forehead",
+      "specified amount"
+    ]
+  },
+  {
     "id": 3000,
     "hanzi": "恶心",
     "pinyin": "è xīn",
@@ -6331,6 +6340,15 @@
     "id": 3136,
     "hanzi": "港口",
     "pinyin": "gǎng kǒu",
+    "translations": [
+      "port",
+      "harbor"
+    ]
+  },
+  {
+    "id": 313601,
+    "hanzi": "港",
+    "pinyin": "gǎng",
     "translations": [
       "port",
       "harbor"

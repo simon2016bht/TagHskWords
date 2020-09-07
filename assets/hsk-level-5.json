@@ -1923,6 +1923,16 @@
     ]
   },
   {
+    "id": 137301,
+    "hanzi": "达",
+    "pinyin": "dá",
+    "translations": [
+      "to reach",
+      "to achieve",
+      "to attain"
+    ]
+  },
+  {
     "id": 1374,
     "hanzi": "打工",
     "pinyin": "dǎ gōng",
@@ -2066,6 +2076,16 @@
     "id": 1388,
     "hanzi": "单独",
     "pinyin": "dān dú",
+    "translations": [
+      "alone",
+      "by oneself",
+      "on one's own"
+    ]
+  },
+  {
+    "id": 138801,
+    "hanzi": "独",
+    "pinyin": "dú",
     "translations": [
       "alone",
       "by oneself",
@@ -4656,6 +4676,14 @@
     ]
   },
   {
+    "id": 163601,
+    "hanzi": "率",
+    "pinyin": "lǜ",
+    "translations": [
+      "rate"
+    ]
+  },
+  {
     "id": 1637,
     "hanzi": "婚礼",
     "pinyin": "hūn lǐ",
@@ -6608,6 +6636,16 @@
     ]
   },
   {
+    "id": 182501,
+    "hanzi": "领",
+    "pinyin": "lǐng",
+    "translations": [
+      "lead",
+      "collar",
+      "receive"
+    ]
+  },
+  {
     "id": 1826,
     "hanzi": "领域",
     "pinyin": "lǐng yù",
@@ -7512,6 +7550,25 @@
     "id": 1911,
     "hanzi": "配合",
     "pinyin": "pèi hé",
+    "translations": [
+      "matching",
+      "fitting in with",
+      "compatible with",
+      "to correspond",
+      "to fit",
+      "to conform to",
+      "rapport",
+      "to coordinate with",
+      "to act in concert with",
+      "to cooperate",
+      "to become man and wife",
+      "to combine parts of machine"
+    ]
+  },
+  {
+    "id": 1911,
+    "hanzi": "配",
+    "pinyin": "pèi",
     "translations": [
       "matching",
       "fitting in with",
@@ -8981,6 +9038,17 @@
     ]
   },
   {
+    "id": 204801,
+    "hanzi": "产",
+    "pinyin": "chǎn",
+    "translations": [
+      "childbirth",
+      "property",
+      "to produce",
+      "manufacture"
+    ]
+  },
+  {
     "id": 2049,
     "hanzi": "生动",
     "pinyin": "shēng dòng",
@@ -9608,6 +9676,14 @@
       "interpersonal",
       "sb with whom one has a close personal relationship",
       "a member of one's clique"
+    ]
+  },
+  {
+    "id": 211101,
+    "hanzi": "私",
+    "pinyin": "sī",
+    "translations": [
+      "private"
     ]
   },
   {
@@ -12019,6 +12095,15 @@
     ]
   },
   {
+    "id": 234001,
+    "hanzi": "营",
+    "pinyin": "yíng",
+    "translations": [
+      "to do business",
+      "to trade"
+    ]
+  },
+  {
     "id": 2341,
     "hanzi": "影子",
     "pinyin": "yǐng zi",
@@ -12265,6 +12350,15 @@
     "translations": [
       "to place an order",
       "to book ahead"
+    ]
+  },
+  {
+    "id": 236601,
+    "hanzi": "订",
+    "pinyin": "dìng",
+    "translations": [
+      "to order",
+      "to agree"
     ]
   },
   {
@@ -12544,6 +12638,14 @@
     "pinyin": "zhàn xiàn",
     "translations": [
       "busy (telephone line)"
+    ]
+  },
+  {
+    "id": 239101,
+    "hanzi": "占",
+    "pinyin": "zhàn",
+    "translations": [
+      "occupy"
     ]
   },
   {

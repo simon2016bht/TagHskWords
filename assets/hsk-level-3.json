@@ -274,6 +274,14 @@
   },
   {
     "id": 32101,
+    "hanzi": "化",
+    "pinyin": "huà",
+    "translations": [
+      "to change into"
+    ]
+  },
+  {
+    "id": 32101,
     "hanzi": "变",
     "pinyin": "biàn",
     "translations": [
@@ -1130,6 +1138,14 @@
       "with regards to",
       "about",
       "a matter of"
+    ]
+  },
+  {
+    "id": 38901,
+    "hanzi": "于",
+    "pinyin": "yú",
+    "translations": [
+      "in • at• to• from• by• than• out of"
     ]
   },
   {
@@ -2874,6 +2890,15 @@
     "translations": [
       "identical",
       "same"
+    ]
+  },
+  {
+    "id": 53901,
+    "hanzi": "相",
+    "pinyin": "xiāng",
+    "translations": [
+      "each other",
+      "mutually"
     ]
   },
   {

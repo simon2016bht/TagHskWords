@@ -731,12 +731,21 @@
     ]
   },
   {
-    "id": 4701,
+    "id": 470100,
     "hanzi": "天",
     "pinyin": "tiān",
     "translations": [
       "day",
       "sky"
+    ]
+  },
+  {
+    "id": 470200,
+    "hanzi": "今",
+    "pinyin": "jīn",
+    "translations": [
+      "at the present",
+      "now"
     ]
   },
   {
@@ -976,6 +985,14 @@
     "pinyin": "míng tiān",
     "translations": [
       "tomorrow"
+    ]
+  },
+  {
+    "id": 670100,
+    "hanzi": "明",
+    "pinyin": "míng",
+    "translations": [
+      "next"
     ]
   },
   {
