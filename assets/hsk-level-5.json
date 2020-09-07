@@ -1818,6 +1818,15 @@
     ]
   },
   {
+    "id": 136501,
+    "hanzi": "促",
+    "pinyin": "cù",
+    "translations": [
+      "to promote (an idea or cause)",
+      "to urge"
+    ]
+  },
+  {
     "id": 1366,
     "hanzi": "促使",
     "pinyin": "cù shǐ",
@@ -10145,6 +10154,14 @@
     ]
   },
   {
+    "id": 216201,
+    "hanzi": "投",
+    "pinyin": "tóu",
+    "translations": [
+      "to throw"
+    ]
+  },
+  {
     "id": 2163,
     "hanzi": "透明",
     "pinyin": "tòu míng",
@@ -11110,6 +11127,16 @@
     "id": 2256,
     "hanzi": "销售",
     "pinyin": "xiāo shòu",
+    "translations": [
+      "to sell",
+      "market",
+      "sales"
+    ]
+  },
+  {
+    "id": 225601,
+    "hanzi": "销",
+    "pinyin": "xiāo",
     "translations": [
       "to sell",
       "market",
@@ -12504,11 +12531,27 @@
     ]
   },
   {
+    "id": 239001,
+    "hanzi": "战",
+    "pinyin": "zhàn",
+    "translations": [
+      "war"
+    ]
+  },
+  {
     "id": 2391,
     "hanzi": "占线",
     "pinyin": "zhàn xiàn",
     "translations": [
       "busy (telephone line)"
+    ]
+  },
+  {
+    "id": 239101,
+    "hanzi": "线",
+    "pinyin": "xiàn",
+    "translations": [
+      "line"
     ]
   },
   {

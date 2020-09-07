@@ -623,12 +623,21 @@
     ]
   },
   {
-    "id": 4001,
+    "id": 400100,
     "hanzi": "后",
     "pinyin": "hòu",
     "translations": [
       "after",
       "later"
+    ]
+  },
+  {
+    "id": 400200,
+    "hanzi": "面",
+    "pinyin": "mian",
+    "translations": [
+      "face",
+      "side"
     ]
   },
   {
@@ -1581,6 +1590,14 @@
     ]
   },
   {
+    "id": 11301,
+    "hanzi": "们",
+    "pinyin": "men",
+    "translations": [
+      "plural"
+    ]
+  },
+  {
     "id": 114,
     "hanzi": "五",
     "pinyin": "wǔ",
@@ -1749,6 +1766,15 @@
       "CL:個|个[gè]",
       "day of the week",
       "Sunday"
+    ]
+  },
+  {
+    "id": 12701,
+    "hanzi": "期",
+    "pinyin": "qī",
+    "translations": [
+      "period",
+      "to hope"
     ]
   },
   {

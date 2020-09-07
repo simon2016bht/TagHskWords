@@ -442,6 +442,23 @@
     ]
   },
   {
+    "id": 17701,
+    "hanzi": "服务",
+    "pinyin": "fú wù",
+    "translations": [
+      "service"
+    ]
+  },
+  {
+    "id": 17702,
+    "hanzi": "员",
+    "pinyin": "yuán",
+    "translations": [
+      "person",
+      "employee"
+    ]
+  },
+  {
     "id": 178,
     "hanzi": "高",
     "pinyin": "gāo",
@@ -469,6 +486,16 @@
     "pinyin": "gào",
     "translations": [
       "to tell"
+    ]
+  },
+  {
+    "id": 17901,
+    "hanzi": "诉",
+    "pinyin": "sù",
+    "translations": [
+      "to tell",
+      "to sue",
+      "to complain"
     ]
   },
   {

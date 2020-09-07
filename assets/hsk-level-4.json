@@ -304,6 +304,18 @@
     ]
   },
   {
+    "id": 62401,
+    "hanzi": "并",
+    "pinyin": "bìng",
+    "translations": [
+      "and",
+      "besides",
+      "moreover",
+      "furthermore",
+      "in addition"
+    ]
+  },
+  {
     "id": 625,
     "hanzi": "博士",
     "pinyin": "bó shì",
@@ -4897,6 +4909,14 @@
     ]
   },
   {
+    "id": 96201,
+    "hanzi": "散",
+    "pinyin": "sàn",
+    "translations": [
+      "scattered"
+    ]
+  },
+  {
     "id": 963,
     "hanzi": "森林",
     "pinyin": "sēn lín",
@@ -5069,6 +5089,19 @@
     "id": 976,
     "hanzi": "失败",
     "pinyin": "shī bài",
+    "translations": [
+      "to be defeated",
+      "to lose",
+      "to fail (e.g. experiments)",
+      "failure",
+      "defeat",
+      "CL:次[cì]"
+    ]
+  },
+  {
+    "id": 97601,
+    "hanzi": "败",
+    "pinyin": "bài",
     "translations": [
       "to be defeated",
       "to lose",
@@ -5340,6 +5373,14 @@
     "translations": [
       "salesperson",
       "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 99801,
+    "hanzi": "售",
+    "pinyin": "shòu",
+    "translations": [
+      "to sell"
     ]
   },
   {
@@ -6554,6 +6595,14 @@
     "id": 109401,
     "hanzi": "研究",
     "pinyin": "yán jiū",
+    "translations": [
+      "research"
+    ]
+  },
+  {
+    "id": 109402,
+    "hanzi": "研",
+    "pinyin": "yán",
     "translations": [
       "research"
     ]
