@@ -5544,6 +5544,17 @@
     ]
   },
   {
+    "id": 101001,
+    "hanzi": "速",
+    "pinyin": "sù",
+    "translations": [
+      "speed",
+      "rate",
+      "velocity",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
     "id": 1011,
     "hanzi": "塑料袋",
     "pinyin": "sù liào dài",
@@ -6053,6 +6064,14 @@
     "pinyin": "wò shǒu",
     "translations": [
       "to shake hands"
+    ]
+  },
+  {
+    "id": 105201,
+    "hanzi": "握",
+    "pinyin": "wò",
+    "translations": [
+      "to hold"
     ]
   },
   {

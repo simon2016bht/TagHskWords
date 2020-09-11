@@ -1704,6 +1704,15 @@
     ]
   },
   {
+    "id": 43401,
+    "hanzi": "句",
+    "pinyin": "jù",
+    "translations": [
+      "sentence",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
     "id": 435,
     "hanzi": "决定",
     "pinyin": "jué dìng",
@@ -2219,6 +2228,22 @@
       "Mandarin (common language)",
       "Putonghua (common speech of the Chinese language)",
       "ordinary speech"
+    ]
+  },
+  {
+    "id": 47901,
+    "hanzi": "普通",
+    "pinyin": "pǔ tōng",
+    "translations": [
+      "general"
+    ]
+  },
+  {
+    "id": 47902,
+    "hanzi": "普",
+    "pinyin": "pǔ",
+    "translations": [
+      "general"
     ]
   },
   {

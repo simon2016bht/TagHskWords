@@ -841,6 +841,14 @@
     ]
   },
   {
+    "id": 127401,
+    "hanzi": "采",
+    "pinyin": "cǎi",
+    "translations": [
+      "to pick"
+    ]
+  },
+  {
     "id": 1275,
     "hanzi": "彩虹",
     "pinyin": "cǎi hóng",
@@ -1549,6 +1557,15 @@
     "pinyin": "chū jí",
     "translations": [
       "junior",
+      "primary"
+    ]
+  },
+  {
+    "id": 134001,
+    "hanzi": "初",
+    "pinyin": "chū",
+    "translations": [
+      "at first",
       "primary"
     ]
   },
@@ -4755,6 +4772,14 @@
     ]
   },
   {
+    "id": 164301,
+    "hanzi": "器",
+    "pinyin": "qì",
+    "translations": [
+      "tool"
+    ]
+  },
+  {
     "id": 1644,
     "hanzi": "激烈",
     "pinyin": "jī liè",
@@ -7121,6 +7146,16 @@
     ]
   },
   {
+    "id": 187101,
+    "hanzi": "牌",
+    "pinyin": "pái",
+    "translations": [
+      "brand",
+      "plate"
+      
+    ]
+  },
+  {
     "id": 1872,
     "hanzi": "名片",
     "pinyin": "míng piàn",
@@ -7881,6 +7916,14 @@
       "unadorned",
       "simple living",
       "not frivolous"
+    ]
+  },
+  {
+    "id": 193801,
+    "hanzi": "素",
+    "pinyin": "sù",
+    "translations": [
+      "element"
     ]
   },
   {

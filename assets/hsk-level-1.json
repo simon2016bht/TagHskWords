@@ -217,6 +217,14 @@
     ]
   },
   {
+    "id": 130101,
+    "hanzi": "电",
+    "pinyin": "diàn",
+    "translations": [
+      "electricity"
+    ]
+  },
+  {
     "id": 1302,
     "hanzi": "打",
     "pinyin": "dǎ",
@@ -1341,6 +1349,25 @@
       "who?",
       "something",
       "anything"
+    ]
+  },
+  {
+    "id": 94,
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "translations": [
+      "what?",
+      "who?",
+      "something",
+      "anything"
+    ]
+  },
+  {
+    "id": 940100,
+    "hanzi": "么",
+    "pinyin": "me",
+    "translations": [
+      "suffix"
     ]
   },
   {

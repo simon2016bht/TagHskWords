@@ -11039,6 +11039,17 @@
     ]
   },
   {
+    "id": 361101,
+    "hanzi": "款",
+    "pinyin": "kuǎn",
+    "translations": [
+      "pattern",
+      "style",
+      "design",
+      "CL:種|种[zhǒng]"
+    ]
+  },
+  {
     "id": 3612,
     "hanzi": "筐",
     "pinyin": "kuāng",
@@ -15333,6 +15344,17 @@
     "id": 4048,
     "hanzi": "容纳",
     "pinyin": "róng nà",
+    "translations": [
+      "to hold",
+      "to contain",
+      "to accommodate",
+      "to tolerate (different opinions)"
+    ]
+  },
+  {
+    "id": 404801,
+    "hanzi": "纳",
+    "pinyin": "nà",
     "translations": [
       "to hold",
       "to contain",
