@@ -40,6 +40,17 @@
     ]
   },
   {
+    "id": 60201,
+    "hanzi": "安",
+    "pinyin": "ān",
+    "translations": [
+      "safe",
+      "secure",
+      "safety",
+      "security"
+    ]
+  },
+  {
     "id": 603,
     "hanzi": "暗",
     "pinyin": "àn",
@@ -89,6 +100,18 @@
     "id": 607,
     "hanzi": "保护",
     "pinyin": "bǎo hù",
+    "translations": [
+      "to protect",
+      "to defend",
+      "to safeguard",
+      "protection",
+      "CL:種|种[zhǒng]"
+    ]
+  },
+  {
+    "id": 60701,
+    "hanzi": "保",
+    "pinyin": "bǎo",
     "translations": [
       "to protect",
       "to defend",
@@ -1960,6 +1983,14 @@
     ]
   },
   {
+    "id": 74401,
+    "hanzi": "购",
+    "pinyin": "gòu",
+    "translations": [
+      "to buy"
+    ]
+  },
+  {
     "id": 745,
     "hanzi": "孤单",
     "pinyin": "gū dān",
@@ -2928,6 +2959,14 @@
     ]
   },
   {
+    "id": 81101,
+    "hanzi": "将",
+    "pinyin": "jiāng",
+    "translations": [
+      "will"
+    ]
+  },
+  {
     "id": 812,
     "hanzi": "奖金",
     "pinyin": "jiǎng jīn",
@@ -3335,6 +3374,16 @@
     "id": 841,
     "hanzi": "拒绝",
     "pinyin": "jù jué",
+    "translations": [
+      "to refuse",
+      "to decline",
+      "to reject"
+    ]
+  },
+  {
+    "id": 84101,
+    "hanzi": "拒",
+    "pinyin": "jù",
     "translations": [
       "to refuse",
       "to decline",
@@ -3861,6 +3910,20 @@
     "id": 883,
     "hanzi": "另外",
     "pinyin": "lìng wài",
+    "translations": [
+      "additional",
+      "in addition",
+      "besides",
+      "separate",
+      "other",
+      "moreover",
+      "furthermore"
+    ]
+  },
+  {
+    "id": 88301,
+    "hanzi": "另",
+    "pinyin": "lìng",
     "translations": [
       "additional",
       "in addition",
@@ -4865,6 +4928,25 @@
     ]
   },
   {
+    "id": 95601,
+    "hanzi": "任",
+    "pinyin": "rèn",
+    "translations": [
+      "mission",
+      "assignment",
+      "task"
+    ]
+  },
+  {
+    "id": 95602,
+    "hanzi": "务",
+    "pinyin": "wu",
+    "translations": [
+      "task",
+      "duty"
+    ]
+  },
+  {
     "id": 957,
     "hanzi": "扔",
     "pinyin": "rēng",
@@ -5004,6 +5086,14 @@
     "id": 967,
     "hanzi": "稍微",
     "pinyin": "shāo wēi",
+    "translations": [
+      "a little bit"
+    ]
+  },
+  {
+    "id": 96701,
+    "hanzi": "稍",
+    "pinyin": "shāo",
     "translations": [
       "a little bit"
     ]
@@ -5365,6 +5455,14 @@
     ]
   },
   {
+    "id": 99501,
+    "hanzi": "首",
+    "pinyin": "shǒu",
+    "translations": [
+      "first"
+    ]
+  },
+  {
     "id": 996,
     "hanzi": "受不了",
     "pinyin": "shòu bù liǎo",
@@ -5545,6 +5643,14 @@
   },
   {
     "id": 101001,
+    "hanzi": "度",
+    "pinyin": "dù",
+    "translations": [
+      "degree"
+    ]
+  },
+  {
+    "id": 101001,
     "hanzi": "速",
     "pinyin": "sù",
     "translations": [
@@ -5603,6 +5709,14 @@
       "negligent",
       "casual",
       "wanton"
+    ]
+  },
+  {
+    "id": 101401,
+    "hanzi": "随",
+    "pinyin": "suí biàn",
+    "translations": [
+      "to follow"
     ]
   },
   {
@@ -6008,6 +6122,15 @@
     ]
   },
   {
+    "id": 104801,
+    "hanzi": "险",
+    "pinyin": "xiǎn",
+    "translations": [
+      "danger",
+      "dangerous"
+    ]
+  },
+  {
     "id": 1049,
     "hanzi": "味道",
     "pinyin": "wèi dao",
@@ -6336,6 +6459,15 @@
       "effect",
       "quality",
       "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 107201,
+    "hanzi": "效",
+    "pinyin": "xiào",
+    "translations": [
+      "result",
+      "effect"
     ]
   },
   {
@@ -6864,6 +6996,14 @@
       "thus",
       "consequently",
       "as a result"
+    ]
+  },
+  {
+    "id": 111001,
+    "hanzi": "此",
+    "pinyin": "cǐ",
+    "translations": [
+      "this"
     ]
   },
   {
@@ -7597,6 +7737,15 @@
     "id": 1168,
     "hanzi": "制造",
     "pinyin": "zhì zào",
+    "translations": [
+      "to manufacture",
+      "to make"
+    ]
+  },
+  {
+    "id": 116801,
+    "hanzi": "制",
+    "pinyin": "zhì",
     "translations": [
       "to manufacture",
       "to make"

@@ -1352,17 +1352,6 @@
     ]
   },
   {
-    "id": 94,
-    "hanzi": "什么",
-    "pinyin": "shén me",
-    "translations": [
-      "what?",
-      "who?",
-      "something",
-      "anything"
-    ]
-  },
-  {
     "id": 940100,
     "hanzi": "么",
     "pinyin": "me",
@@ -1660,6 +1649,15 @@
     ]
   },
   {
+    "id": 1150100,
+    "hanzi": "喜",
+    "pinyin": "xǐ",
+    "translations": [
+      "to like",
+      "to be fond of"
+    ]
+  },
+  {
     "id": 116,
     "hanzi": "下",
     "pinyin": "xià",
@@ -1719,6 +1717,19 @@
     "id": 120,
     "hanzi": "现在",
     "pinyin": "xiàn zài",
+    "translations": [
+      "now",
+      "at present",
+      "at the moment",
+      "modern",
+      "current",
+      "nowadays"
+    ]
+  },
+  {
+    "id": 12001,
+    "hanzi": "现",
+    "pinyin": "xiàn",
     "translations": [
       "now",
       "at present",
@@ -1810,6 +1821,14 @@
       "CL:個|个[gè]",
       "day of the week",
       "Sunday"
+    ]
+  },
+  {
+    "id": 12701,
+    "hanzi": "星",
+    "pinyin": "xīng",
+    "translations": [
+      "star"
     ]
   },
   {

@@ -59,6 +59,17 @@
       "to assist"
     ]
   },
+  {
+    "id": 15401,
+    "hanzi": "助",
+    "pinyin": "zhù",
+    "translations": [
+      "assistance",
+      "aid",
+      "to help",
+      "to assist"
+    ]
+  },
     {
     "id": 15401,
     "hanzi": "帮",
@@ -87,6 +98,14 @@
     "pinyin": "zhǐ",
     "translations": [
       "paper"
+    ]
+  },
+  {
+    "id": 15502,
+    "hanzi": "报",
+    "pinyin": "bào",
+    "translations": [
+      "to inform"
     ]
   },
   {
@@ -969,6 +988,17 @@
     ]
   },
   {
+    "id": 20901,
+    "hanzi": "可",
+    "pinyin": "kě",
+    "translations": [
+      "can",
+      "may",
+      "possible",
+      "able to"
+    ]
+  },
+  {
     "id": 210,
     "hanzi": "课",
     "pinyin": "kè",
@@ -1290,6 +1320,14 @@
       "to walk quickly",
       "to march",
       "to run"
+    ]
+  },
+  {
+    "id": 22901,
+    "hanzi": "步",
+    "pinyin": "bù",
+    "translations": [
+      "a step"
     ]
   },
   {
@@ -2057,6 +2095,15 @@
       "movement",
       "campaign",
       "CL:場|场[chǎng]"
+    ]
+  },
+  {
+    "id": 28501,
+    "hanzi": "运",
+    "pinyin": "yùn",
+    "translations": [
+      "to move",
+      "to transport"
     ]
   },
   {

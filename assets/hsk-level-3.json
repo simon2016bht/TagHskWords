@@ -239,6 +239,19 @@
     ]
   },
   {
+    "id": 31801,
+    "hanzi": "较",
+    "pinyin": "jiào",
+    "translations": [
+      "to compare",
+      "to contrast",
+      "comparatively",
+      "relatively",
+      "quite",
+      "comparison"
+    ]
+  },
+  {
     "id": 319,
     "hanzi": "比赛",
     "pinyin": "bǐ sài",
@@ -348,6 +361,14 @@
       "refrigerator",
       "CL:臺|台",
       "個|个[gè]"
+    ]
+  },
+  {
+    "id": 32601,
+    "hanzi": "箱",
+    "pinyin": "xiāng",
+    "translations": [
+      "box"
     ]
   },
   {
@@ -490,6 +511,16 @@
       "grades",
       "CL:項|项",
       "個|个[gè]"
+    ]
+  },
+  {
+    "id": 33501,
+    "hanzi": "绩",
+    "pinyin": "jì",
+    "translations": [
+      "achievement",
+      "performance records",
+      "grades"
     ]
   },
   {
@@ -742,6 +773,14 @@
     ]
   },
   {
+    "id": 35401,
+    "hanzi": "铁",
+    "pinyin": "tiě",
+    "translations": [
+      "iron"
+    ]
+  },
+  {
     "id": 355,
     "hanzi": "地图",
     "pinyin": "dì tú",
@@ -749,6 +788,14 @@
       "map",
       "CL:張|张",
       "本[běn]"
+    ]
+  },
+  {
+    "id": 35501,
+    "hanzi": "图",
+    "pinyin": "tú",
+    "translations": [
+      "diagram"
     ]
   },
   {
@@ -973,6 +1020,17 @@
     ]
   },
   {
+    "id": 374,
+    "hanzi": "附近",
+    "pinyin": "fù jìn",
+    "translations": [
+      "(in the) vicinity",
+      "nearby",
+      "neighboring",
+      "next to"
+    ]
+  },
+  {
     "id": 375,
     "hanzi": "复习",
     "pinyin": "fù xí",
@@ -984,9 +1042,26 @@
     ]
   },
   {
+    "id": 37501,
+    "hanzi": "复",
+    "pinyin": "fù",
+    "translations": [
+      "to repeat"
+    ]
+  },
+  {
     "id": 376,
     "hanzi": "干净",
     "pinyin": "gān jìng",
+    "translations": [
+      "clean",
+      "neat"
+    ]
+  },
+  {
+    "id": 37601,
+    "hanzi": "净",
+    "pinyin": "jìng",
     "translations": [
       "clean",
       "neat"
@@ -1237,6 +1312,16 @@
     ]
   },
   {
+    "id": 39601,
+    "hanzi": "板",
+    "pinyin": "bǎn",
+    "translations": [
+      "board",
+      "CL:塊|块",
+      "個|个[gè]"
+    ]
+  },
+  {
     "id": 397,
     "hanzi": "护照",
     "pinyin": "hù zhào",
@@ -1369,6 +1454,14 @@
     ]
   },
   {
+    "id": 40601,
+    "hanzi": "或",
+    "pinyin": "huò",
+    "translations": [
+      "or"
+    ]
+  },
+  {
     "id": 407,
     "hanzi": "机会",
     "pinyin": "jī huì",
@@ -1423,6 +1516,16 @@
     "pinyin": "jì jié",
     "translations": [
       "time",
+      "season",
+      "period",
+      "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 41101,
+    "hanzi": "季",
+    "pinyin": "jì",
+    "translations": [
       "season",
       "period",
       "CL:個|个[gè]"
@@ -1732,6 +1835,16 @@
     "translations": [
       "to determine",
       "to decide"
+    ]
+  },
+  {
+    "id": 43502,
+    "hanzi": "决",
+    "pinyin": "jué",
+    "translations": [
+      "to decide (to do something)",
+      "to resolve",
+      "decision"
     ]
   },
   {
@@ -2310,6 +2423,15 @@
     ]
   },
   {
+    "id": 48401,
+    "hanzi": "笔",
+    "pinyin": "bǐ",
+    "translations": [
+      "pen",
+      "CL:支"
+    ]
+  },
+  {
     "id": 485,
     "hanzi": "清楚",
     "pinyin": "qīng chu",
@@ -2756,6 +2878,15 @@
     ]
   },
   {
+    "id": 52401,
+    "hanzi": "成",
+    "pinyin": "chéng",
+    "translations": [
+      "to complete",
+      "to become"
+    ]
+  },
+  {
     "id": 525,
     "hanzi": "碗",
     "pinyin": "wǎn",
@@ -2779,6 +2910,14 @@
     "id": 527,
     "hanzi": "忘记",
     "pinyin": "wàng jì",
+    "translations": [
+      "to forget"
+    ]
+  },
+  {
+    "id": 52701,
+    "hanzi": "忘",
+    "pinyin": "wàng",
     "translations": [
       "to forget"
     ]
@@ -3074,6 +3213,19 @@
     ]
   },
   {
+    "id": 551,
+    "hanzi": "需",
+    "pinyin": "xū",
+    "translations": [
+      "to need",
+      "to want",
+      "to demand",
+      "to require",
+      "requirement",
+      "need"
+    ]
+  },
+  {
     "id": 552,
     "hanzi": "选择",
     "pinyin": "xuǎn zé",
@@ -3267,6 +3419,16 @@
     ]
   },
   {
+    "id": 56801,
+    "hanzi": "应",
+    "pinyin": "yīng",
+    "translations": [
+      "ought to",
+      "should",
+      "must"
+    ]
+  },
+  {
     "id": 569,
     "hanzi": "影响",
     "pinyin": "yǐng xiǎng",
@@ -3398,6 +3560,15 @@
     ]
   },
   {
+    "id": 58001,
+    "hanzi": "急",
+    "pinyin": "jí",
+    "translations": [
+      "to worry",
+      "to feel anxious"
+    ]
+  },
+  {
     "id": 581,
     "hanzi": "照顾",
     "pinyin": "zhào gu",
@@ -3462,6 +3633,15 @@
       "in the end",
       "finally",
       "eventually"
+    ]
+  },
+  {
+    "id": 58601,
+    "hanzi": "终",
+    "pinyin": "zhōng",
+    "translations": [
+      "last",
+      "in the end"
     ]
   },
   {
@@ -3618,6 +3798,20 @@
     "id": 598,
     "hanzi": "作业",
     "pinyin": "zuò yè",
+    "translations": [
+      "school assignment",
+      "homework",
+      "work",
+      "task",
+      "operation",
+      "CL:個|个[gè]",
+      "to operate"
+    ]
+  },
+  {
+    "id": 59801,
+    "hanzi": "业",
+    "pinyin": "yè",
     "translations": [
       "school assignment",
       "homework",

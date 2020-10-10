@@ -807,6 +807,15 @@
     ]
   },
   {
+    "id": 127101,
+    "hanzi": "财",
+    "pinyin": "cái",
+    "translations": [
+      "property",
+      "wealth"
+    ]
+  },
+  {
     "id": 1272,
     "hanzi": "踩",
     "pinyin": "cǎi",
@@ -2424,6 +2433,14 @@
     ]
   },
   {
+    "id": 141801,
+    "hanzi": "震",
+    "pinyin": "zhèn",
+    "translations": [
+      "vibrate"
+    ]
+  },
+  {
     "id": 1419,
     "hanzi": "点头",
     "pinyin": "diǎn tóu",
@@ -2731,6 +2748,14 @@
       "vile",
       "nasty",
       "of very poor quality"
+    ]
+  },
+  {
+    "id": 144701,
+    "hanzi": "劣",
+    "pinyin": "liè",
+    "translations": [
+      "inferior"
     ]
   },
   {
@@ -3275,6 +3300,15 @@
     "id": 1497,
     "hanzi": "付款",
     "pinyin": "fù kuǎn",
+    "translations": [
+      "to pay a sum of money",
+      "payment"
+    ]
+  },
+  {
+    "id": 149701,
+    "hanzi": "付",
+    "pinyin": "fù",
     "translations": [
       "to pay a sum of money",
       "payment"
@@ -3867,6 +3901,14 @@
     ]
   },
   {
+    "id": 155301,
+    "hanzi": "固",
+    "pinyin": "gù",
+    "translations": [
+      "to fix"
+    ]
+  },
+  {
     "id": 1554,
     "hanzi": "固体",
     "pinyin": "gù tǐ",
@@ -3878,6 +3920,15 @@
     "id": 1555,
     "hanzi": "雇佣",
     "pinyin": "gù yōng",
+    "translations": [
+      "to employ",
+      "to hire"
+    ]
+  },
+  {
+    "id": 155501,
+    "hanzi": "佣",
+    "pinyin": "yōng",
     "translations": [
       "to employ",
       "to hire"
@@ -5071,6 +5122,15 @@
     ]
   },
   {
+    "id": 167201,
+    "hanzi": "强",
+    "pinyin": "qiáng",
+    "translations": [
+      "staunch",
+      "strong"
+    ]
+  },
+  {
     "id": 1673,
     "hanzi": "尖锐",
     "pinyin": "jiān ruì",
@@ -5155,6 +5215,16 @@
     "id": 1681,
     "hanzi": "建立",
     "pinyin": "jiàn lì",
+    "translations": [
+      "to establish",
+      "to set up",
+      "to found"
+    ]
+  },
+  {
+    "id": 168101,
+    "hanzi": "立",
+    "pinyin": "lì",
     "translations": [
       "to establish",
       "to set up",
@@ -5496,6 +5566,15 @@
     ]
   },
   {
+    "id": 171101,
+    "hanzi": "账",
+    "pinyin": "zhàng",
+    "translations": [
+      "the bill",
+      "account"
+    ]
+  },
+  {
     "id": 1712,
     "hanzi": "解放",
     "pinyin": "jiě fàng",
@@ -5692,6 +5771,14 @@
     "pinyin": "jìng ài",
     "translations": [
       "respect and love"
+    ]
+  },
+  {
+    "id": 173101,
+    "hanzi": "敬",
+    "pinyin": "jìng",
+    "translations": [
+      "respect"
     ]
   },
   {
@@ -6228,6 +6315,14 @@
     ]
   },
   {
+    "id": 178301,
+    "hanzi": "自",
+    "pinyin": "zì",
+    "translations": [
+      "to come from (a place; a time)"
+    ]
+  },
+  {
     "id": 1784,
     "hanzi": "拦",
     "pinyin": "lán",
@@ -6501,6 +6596,15 @@
       "benefit",
       "(in sb's) interest",
       "CL:個|个[gè]"
+    ]
+  },
+  {
+    "id": 181001,
+    "hanzi": "益",
+    "pinyin": "yì",
+    "translations": [
+      "benefit",
+      "(in sb's) interest"
     ]
   },
   {
@@ -7292,6 +7396,14 @@
     ]
   },
   {
+    "id": 1884,
+    "hanzi": "目",
+    "pinyin": "mù",
+    "translations": [
+      "eye"
+    ]
+  },
+  {
     "id": 1885,
     "hanzi": "木头",
     "pinyin": "mù tou",
@@ -7302,6 +7414,14 @@
       "timber etc)",
       "CL:塊|块",
       "根[gēn]"
+    ]
+  },
+  {
+    "id": 188501,
+    "hanzi": "木",
+    "pinyin": "mù",
+    "translations": [
+      "wood"
     ]
   },
   {
@@ -8044,6 +8164,14 @@
     ]
   },
   {
+    "id": 194901,
+    "hanzi": "签",
+    "pinyin": "qiān",
+    "translations": [
+      "to sign (a signature)"
+    ]
+  },
+  {
     "id": 1950,
     "hanzi": "谦虚",
     "pinyin": "qiān xū",
@@ -8350,6 +8478,15 @@
     ]
   },
   {
+    "id": 197801,
+    "hanzi": "势",
+    "pinyin": "shì",
+    "translations": [
+      "power",
+      "tendency"
+    ]
+  },
+  {
     "id": 1979,
     "hanzi": "娶",
     "pinyin": "qǔ",
@@ -8407,6 +8544,15 @@
     "id": 1984,
     "hanzi": "权力",
     "pinyin": "quán lì",
+    "translations": [
+      "power",
+      "authority"
+    ]
+  },
+  {
+    "id": 198401,
+    "hanzi": "权",
+    "pinyin": "quán",
     "translations": [
       "power",
       "authority"
@@ -8684,6 +8830,19 @@
     "id": 2009,
     "hanzi": "融化",
     "pinyin": "róng huà",
+    "translations": [
+      "to melt",
+      "to thaw",
+      "to dissolve",
+      "to blend into",
+      "to combine",
+      "to fuse"
+    ]
+  },
+  {
+    "id": 200901,
+    "hanzi": "融",
+    "pinyin": "róng",
     "translations": [
       "to melt",
       "to thaw",
@@ -9430,6 +9589,14 @@
     "translations": [
       "receipt",
       "CL:張|张[zhāng]"
+    ]
+  },
+  {
+    "id": 208201,
+    "hanzi": "据",
+    "pinyin": "jù",
+    "translations": [
+      "receipt"
     ]
   },
   {
@@ -10553,6 +10720,14 @@
     ]
   },
   {
+    "id": 218901,
+    "hanzi": "违",
+    "pinyin": "wéi",
+    "translations": [
+      "to violate"
+    ]
+  },
+  {
     "id": 2190,
     "hanzi": "维护",
     "pinyin": "wéi hù",
@@ -10631,6 +10806,16 @@
     ]
   },
   {
+    "id": 219701,
+    "hanzi": "委",
+    "pinyin": "wěi",
+    "translations": [
+      "to entrust",
+      "to trust",
+      "to commission"
+    ]
+  },
+  {
     "id": 2198,
     "hanzi": "胃",
     "pinyin": "wèi",
@@ -10657,6 +10842,15 @@
     "translations": [
       "not necessarily",
       "maybe not"
+    ]
+  },
+  {
+    "id": 220001,
+    "hanzi": "未",
+    "pinyin": "wèi",
+    "translations": [
+      "not",
+      "not yet"
     ]
   },
   {
@@ -12418,6 +12612,15 @@
     ]
   },
   {
+    "id": 236701,
+    "hanzi": "防",
+    "pinyin": "fáng",
+    "translations": [
+      "to protect",
+      "to guard against"
+    ]
+  },
+  {
     "id": 2368,
     "hanzi": "玉米",
     "pinyin": "yù mǐ",
@@ -12728,6 +12931,15 @@
     "id": 2394,
     "hanzi": "账户",
     "pinyin": "zhàng hù",
+    "translations": [
+      "bank account",
+      "online account"
+    ]
+  },
+  {
+    "id": 239401,
+    "hanzi": "户",
+    "pinyin": "hù",
     "translations": [
       "bank account",
       "online account"
@@ -13221,6 +13433,14 @@
     "pinyin": "zhōng xún",
     "translations": [
       "middle third of a month"
+    ]
+  },
+  {
+    "id": 244001,
+    "hanzi": "旬",
+    "pinyin": "xún",
+    "translations": [
+      "ten days; full period"
     ]
   },
   {

@@ -1172,6 +1172,15 @@
     ]
   },
   {
+    "id": 261701,
+    "hanzi": "贬",
+    "pinyin": "biǎn",
+    "translations": [
+      "to degrade",
+      "to devalue"
+    ]
+  },
+  {
     "id": 2618,
     "hanzi": "贬义",
     "pinyin": "biǎn yì",
@@ -2504,6 +2513,15 @@
     ]
   },
   {
+    "id": 275101,
+    "hanzi": "潮",
+    "pinyin": "cháo",
+    "translations": [
+      "damp",
+      "moist"
+    ]
+  },
+  {
     "id": 2752,
     "hanzi": "嘲笑",
     "pinyin": "cháo xiào",
@@ -2990,6 +3008,24 @@
     "id": 2801,
     "hanzi": "重叠",
     "pinyin": "chóng dié",
+    "translations": [
+      "to overlap",
+      "to superimpose",
+      "to telescope",
+      "to run together",
+      "to duplicate",
+      "one over another",
+      "superposition",
+      "an overlap",
+      "redundancy",
+      "reduplication (in Chinese grammar",
+      "e.g. 散散步 to have a stroll)"
+    ]
+  },
+  {
+    "id": 280101,
+    "hanzi": "叠",
+    "pinyin": "dié",
     "translations": [
       "to overlap",
       "to superimpose",
@@ -4922,6 +4958,15 @@
     ]
   },
   {
+    "id": 299201,
+    "hanzi": "兑",
+    "pinyin": "duì",
+    "translations": [
+      "to convert",
+      "to exchange"
+    ]
+  },
+  {
     "id": 2993,
     "hanzi": "兑现",
     "pinyin": "duì xiàn",
@@ -6173,6 +6218,16 @@
       "enclosure",
       "attachment (email)",
       "appendix"
+    ]
+  }
+  ,
+  {
+    "id": 311801,
+    "hanzi": "附",
+    "pinyin": "fù",
+    "translations": [
+      "to enclosure",
+      "to attach (email)"
     ]
   },
   {
@@ -8308,6 +8363,16 @@
     "translations": [
       "to report",
       "to give an account of",
+      "report"
+    ]
+  },
+  {
+    "id": 333501,
+    "hanzi": "汇",
+    "pinyin": "huì",
+    "translations": [
+      "to report",
+      "to transfer money",
       "report"
     ]
   },
@@ -13031,6 +13096,16 @@
     ]
   },
   {
+    "id": 381301,
+    "hanzi": "拟",
+    "pinyin": "nǐ",
+    "translations": [
+      "to draw up",
+      "to draft",
+      "to formulate"
+    ]
+  },
+  {
     "id": 3814,
     "hanzi": "年度",
     "pinyin": "nián dù",
@@ -13119,6 +13194,14 @@
     ]
   },
   {
+    "id": 382201,
+    "hanzi": "纽扣",
+    "pinyin": "niǔ kòu",
+    "translations": [
+      "Buttons children"
+    ]
+  },
+  {
     "id": 3823,
     "hanzi": "扭转",
     "pinyin": "niǔ zhuǎn",
@@ -13200,6 +13283,15 @@
     "id": 3831,
     "hanzi": "欧洲",
     "pinyin": "Oū zhōu",
+    "translations": [
+      "Europe",
+      "European"
+    ]
+  },
+  {
+    "id": 383101,
+    "hanzi": "欧",
+    "pinyin": "Oū",
     "translations": [
       "Europe",
       "European"
@@ -18127,6 +18219,18 @@
     ]
   },
   {
+    "id": 433001,
+    "hanzi": "拖",
+    "pinyin": "tuō",
+    "translations": [
+      "to adjourn",
+      "to delay",
+      "to defer",
+      "adjournment",
+      "procrastination"
+    ]
+  },
+  {
     "id": 4331,
     "hanzi": "托运",
     "pinyin": "tuō yùn",
@@ -19925,6 +20029,17 @@
     "id": 4517,
     "hanzi": "兴旺",
     "pinyin": "xīng wàng",
+    "translations": [
+      "prosperous",
+      "thriving",
+      "to prosper",
+      "to flourish"
+    ]
+  },
+  {
+    "id": 451701,
+    "hanzi": "旺",
+    "pinyin": "wàng",
     "translations": [
       "prosperous",
       "thriving",
